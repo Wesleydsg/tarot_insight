@@ -1,0 +1,3495 @@
+{
+  "description": "cartas de tarô e informações básicas sobre elas, bem como referências a digitalizações correspondentes",
+  "cards": [
+    {
+      "name": "O Louco",
+      "number": "0",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m00.jpg",
+      "fortune_telling": [
+        "Fique atento a novos projetos e novos começos",
+        "Prepare-se para aceitar algo pela fé",
+        "Algo novo está chegando; vá em frente"
+      ],
+      "keywords": [
+        "liberdade",
+        "fé",
+        "inexperiência",
+        "inocência"
+      ],
+      "meanings": {
+        "light": [
+          "Libertar-se de limitações",
+          "Expressar alegria e vigor juvenil",
+          "Ter a mente aberta",
+          "Dar um salto de fé",
+          "Sintonizar-se com seus instintos",
+          "Estar ansioso ou curioso",
+          "Explorar seu potencial",
+          "Abraçar a inovação e a mudança"
+        ],
+        "shadow": [
+          "Ser crédulo e ingênuo",
+          "Correr riscos desnecessários",
+          "Não ser sério quando necessário",
+          "Ser bobo ou distraído",
+          "Falta de experiência",
+          "Não honrar tradições e limites bem estabelecidos",
+          "Comportar-se de forma inadequada"
+        ]
+      },
+      "Archetype": "O Louco Divino",
+      "Hebrew Alphabet": "Aleph/Boi/1",
+      "Numerology": "0 (fora da escala; potencial puro)",
+      "Elemental": "Ar",
+      "Mythical/Spiritual": "Adão antes da queda. Cristo como um santo louco errante. Divindade envolta em carne humana. O Espírito Santo.",
+      "Questions to Ask": [
+        "O que eu faria se me sentisse livre para dar um salto?",
+        "Quão disposto estou a ser vulnerável e aberto?",
+        "Como as experiências passadas podem ajudar nesta nova situação?"
+      ]
+    },
+    {
+      "name": "O Mago",
+      "number": "1",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m01.jpg",
+      "fortune_telling": [
+        "Um homem poderoso pode desempenhar um papel no seu dia",
+        "Sua situação atual deve ser vista como um elemento de um plano muito maior"
+      ],
+      "keywords": [
+        "capacidade",
+        "empoderamento",
+        "atividade"
+      ],
+      "meanings": {
+        "light": [
+          "Tomar a ação apropriada",
+          "Receber orientação de um poder superior",
+          "Tornar-se um canal da vontade divina",
+          "Expressar energia masculina de maneiras apropriadas e construtivas",
+          "Ser você mesmo em todos os sentidos"
+        ],
+        "shadow": [
+          "Inflar o próprio ego",
+          "Abusar de talentos",
+          "Manipular ou enganar os outros",
+          "Ser muito agressivo",
+          "Usar ilusões baratas para deslumbrar os outros",
+          "Recusar-se a investir o tempo e esforço necessários para dominar sua arte",
+          "Pegar atalhos"
+        ]
+      },
+      "Archetype": "O Ego/O Self",
+      "Hebrew Alphabet": "Beth/Casa/2",
+      "Numerology": "1 (origens, unidade, sementes)",
+      "Elemental": "O Sol/Mercúrio",
+      "Mythical/Spiritual": "Thoth, o deus egípcio da sabedoria, conhecido pelos gregos como Hermes e pelos romanos como Mercúrio. Cristo realizando milagres. Brahma, o Criador.",
+      "Questions to Ask": [
+        "O que estou habilitado a fazer?",
+        "Como minhas habilidades podem entrar em jogo?",
+        "Em que medida estou aproveitando ao máximo meus talentos?"
+      ]
+    },
+    {
+      "name": "A Papisa",
+      "number": "2",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m02.jpg",
+      "fortune_telling": [
+        "Uma mulher misteriosa chega",
+        "Um segredo sexual pode surgir",
+        "Alguém sabe mais do que vai revelar"
+      ],
+      "keywords": [
+        "intuição",
+        "reflexão",
+        "pureza",
+        "iniciação"
+      ],
+      "meanings": {
+        "light": [
+          "Ouvir seus sentimentos e intuições",
+          "Explorar a espiritualidade não convencional",
+          "Guardar segredos",
+          "Ser receptivo",
+          "Refletir em vez de agir",
+          "Observar os outros",
+          "Preservar a pureza"
+        ],
+        "shadow": [
+          "Ser distante",
+          "Obcecar-se com segredos e conspirações",
+          "Rejeitar a orientação do espírito ou da intuição",
+          "Revelar tudo",
+          "Ignorar os instintos",
+          "Recusar-se a se envolver, mesmo quando o envolvimento é apropriado"
+        ]
+      },
+      "Archetype": "A Virgem/A Donzela",
+      "Hebrew Alphabet": "Gimel/Camelo/3",
+      "Numerology": "2 (divisão, debate, dualidade)",
+      "Elemental": "A Lua",
+      "Mythical/Spiritual": "O aspecto feminino da divindade, particularmente quando expresso através da virgindade, como com a Virgem Maria ou Ísis.",
+      "Questions to Ask": [
+        "O que um rebelde contra a tradição faria?",
+        "O que não está sendo dito ou revelado?",
+        "O que poderia ser alcançado observando e refletindo?"
+      ]
+    },
+    {
+      "name": "A Imperatriz",
+      "number": "3",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m03.jpg",
+      "fortune_telling": [
+        "Gravidez está nas cartas",
+        "Uma oportunidade de envolvimento em sexualidade luxuosa está chegando",
+        "Cuidado com a tendência ao vício"
+      ],
+      "keywords": [
+        "fertilidade",
+        "produtividade",
+        "maturidade",
+        "nutrição"
+      ],
+      "meanings": {
+        "light": [
+          "Nutrir a si mesmo e aos outros",
+          "Dar frutos",
+          "Celebrar seu corpo",
+          "Gerar filhos (literais ou figurativos)",
+          "Deleitar-se no luxo",
+          "Maternar aqueles ao seu redor de maneiras positivas",
+          "Aproveitar sua sexualidade",
+          "Realizar as coisas"
+        ],
+        "shadow": [
+          "Exagerar",
+          "Ser ganancioso",
+          "Sufocar alguém com atenção",
+          "Debilitar alguém por ser superprotetor",
+          "Inibir a produtividade por obcecar-se com a produtividade",
+          "Ser dominado por comportamento viciante"
+        ]
+      },
+      "Archetype": "A Mãe",
+      "Hebrew Alphabet": "Daleth/Porta/4",
+      "Numerology": "3 (expressão, produtividade, resultado)",
+      "Elemental": "Vênus",
+      "Mythical/Spiritual": "Gaia, Mãe Terra, Ishtar, Deméter – divindade feminina madura e reprodutiva em todas as formas. Também Afrodite e Turan.",
+      "Questions to Ask": [
+        "O que uma mãe preocupada e capaz faria?",
+        "O que posso fazer que enfatize o crescimento?",
+        "Como posso celebrar minha própria sensualidade e sexualidade?"
+      ]
+    },
+    {
+      "name": "O Imperador",
+      "number": "4",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m04.jpg",
+      "fortune_telling": [
+        "Uma figura paterna chega",
+        "Um novo empregador ou figura de autoridade lhe dará ordens",
+        "Espere disciplina ou correção em um futuro próximo"
+      ],
+      "keywords": [
+        "autoridade",
+        "regulamentação",
+        "direção",
+        "estrutura"
+      ],
+      "meanings": {
+        "light": [
+          "Exercer autoridade",
+          "Definir limites",
+          "Direcionar o fluxo de trabalho",
+          "Comunicar diretrizes claras",
+          "Estar no controle de si mesmo e dos outros",
+          "Temperar a masculinidade agressiva com sabedoria e experiência"
+        ],
+        "shadow": [
+          "Microgerenciar",
+          "Esmagar a criatividade dos outros com uma abordagem rígida e punho de ferro",
+          "Insistir em fazer as coisas à sua maneira",
+          "Assumir uma mentalidade ditatorial",
+          "Usar força ostensiva para alcançar seus objetivos e manter a ordem"
+        ]
+      },
+      "Archetype": "O Pai",
+      "Hebrew Alphabet": "He[as]/Janela/5, ou em alguns baralhos, Tzaddi/Anzol/90",
+      "Numerology": "4 (estabilidade, igualdade, persistência)",
+      "Elemental": "Marte/Áries",
+      "Mythical/Spiritual": "Deuses masculinos, incluindo o Deus Hebraico, o Deus Cristão, Alá e Zeus. Patriarcas (Abraão) e legisladores (Moisés). Vishnu, o Preservador.",
+      "Questions to Ask": [
+        "Como a questão de controle ou regulamentação impacta esta situação?",
+        "O que um pai compassivo, mas rigoroso, faria?",
+        "O que precisa de mais controle?"
+      ]
+    },
+    {
+      "name": "O Hierofante",
+      "number": "5",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m05.jpg",
+      "fortune_telling": [
+        "Espere ser pego em um erro e punido de acordo",
+        "Ore por perdão e confesse erros",
+        "Um homem mais experiente, líder espiritual ou figura paterna entrará em sua vida"
+      ],
+      "keywords": [
+        "orientação",
+        "conhecimento",
+        "revelação",
+        "crença"
+      ],
+      "meanings": {
+        "light": [
+          "Ensinar ou guiar os outros",
+          "Buscar a verdade",
+          "Pedir orientação a um poder superior",
+          "Reconhecer a sabedoria e experiência dos outros",
+          "Fazer votos",
+          "Engajar-se em rituais sinceros",
+          "Voluntariar-se"
+        ],
+        "shadow": [
+          "Usar a experiência como meio de manipular ou enganar os outros",
+          "Ser dogmático",
+          "Favorecer a tradição em detrimento do que é conveniente ou necessário",
+          "Seguir os movimentos de rituais vazios",
+          "Ocultar a sabedoria",
+          "Restringir o acesso a verdades espirituais ou aos deuses"
+        ]
+      },
+      "Archetype": "O Guardião/A Igreja/Fé",
+      "Hebrew Alphabet": "Vau/Prego ou Espigão/6",
+      "Numerology": "5 (instabilidade, resistência, confronto, evolução)",
+      "Elemental": "Touro/Terra",
+      "Mythical/Spiritual": "O Cristo, o Apóstolo Pedro, Buda, Maomé. Papas, sacerdotes e intercessores de todas as fés e tradições",
+      "Questions to Ask": [
+        "Que papel a tradição ou a religião pode desempenhar nesta situação?",
+        "Quem criou as regras? Quem as aplica? Por quê?",
+        "Como um guia experiente pode impactar esta situação?"
+      ]
+    },
+    {
+      "name": "Os Enamorados",
+      "number": "6",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m06.jpg",
+      "fortune_telling": [
+        "Um novo relacionamento pessoal ou profissional floresce",
+        "Oportunidades sexuais abundam",
+        "Inesperadamente, um amigo se torna um amante"
+      ],
+      "keywords": [
+        "amor",
+        "paixão",
+        "unidade",
+        "escolha"
+      ],
+      "meanings": {
+        "light": [
+          "Estar apaixonado",
+          "Mostrar seu amor aos outros",
+          "Expressar paixão ou sentimentos românticos",
+          "Aliar-se a grupos ou a outros com a mesma mentalidade",
+          "Unir pessoas",
+          "Tomar decisões bem informadas"
+        ],
+        "shadow": [
+          "Paixão debilitante",
+          "Permitir que um desejo insalubre por amor motive um comportamento destrutivo",
+          "Perturbar a unidade",
+          "Trabalhar contra os melhores interesses daqueles que se preocupam com você",
+          "Decisões mal informadas"
+        ]
+      },
+      "Archetype": "O Amante/Despertar Sexual",
+      "Hebrew Alphabet": "Zain/Espada/7",
+      "Numerology": "6 (cooperação, colaboração, interação)",
+      "Elemental": "Gêmeos",
+      "Mythical/Spiritual": "Obviamente, Adão e Eva, que são retratados em baralhos influenciados por RWS. Também Vênus e Cupido, Afrodite e Eros.",
+      "Questions to Ask": [
+        "O que guia minhas escolhas?",
+        "O que meu coração está me levando a fazer?",
+        "Como esta decisão pode me transformar como pessoa?"
+      ]
+    },
+    {
+      "name": "O Carro",
+      "number": "7",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m07.jpg",
+      "fortune_telling": [
+        "A vitória é uma certeza",
+        "Avance com todos os planos",
+        "Cuidado com o ciúme dos outros"
+      ],
+      "keywords": [
+        "avanço",
+        "vitória",
+        "triunfo",
+        "sucesso"
+      ],
+      "meanings": {
+        "light": [
+          "Superar barreiras",
+          "Avançar com confiança e autoridade",
+          "Alcançar o auge do sucesso",
+          "Desfrutar da glória da conquista",
+          "Guiar um esforço para a vitória total",
+          "Estabelecer-se como um líder digno"
+        ],
+        "shadow": [
+          "Acomodar-se sobre os louros",
+          "Passar por cima dos sentimentos ou expectativas dos outros",
+          "Focar mais nos sucessos passados do que nas oportunidades futuras",
+          "Não controlar o comportamento impulsivo"
+        ]
+      },
+      "Archetype": "O Herói Vitorioso",
+      "Hebrew Alphabet": "Cheth/Cerca/8",
+      "Numerology": "7 (imaginação, trabalho interior, psicologia)",
+      "Elemental": "Câncer",
+      "Mythical/Spiritual": "Odisseu. Jasão. A busca pelo Santo Graal. A entrada triunfal de Cristo em Jerusalém.",
+      "Questions to Ask": [
+        "Em que medida eu cheguei? Qual será meu próximo desafio?",
+        "Como posso usar as conquistas passadas da melhor forma?",
+        "Quais seriam os critérios para um sucesso real e significativo?"
+      ]
+    },
+    {
+      "name": "Força",
+      "number": "8",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m08.jpg",
+      "fortune_telling": [
+        "Seu autocontrole será testado",
+        "Uma mulher procurará mudar seu parceiro ou amante",
+        "Você é uma pessoa forte e capaz"
+      ],
+      "keywords": [
+        "disciplina",
+        "ousadia",
+        "autodisciplina",
+        "poder",
+        "vitalidade"
+      ],
+      "meanings": {
+        "light": [
+          "Impor restrições a si mesmo para seu próprio benefício",
+          "Colocar suas paixões sob o controle da razão",
+          "Resistir a impulsos que trabalham contra seus melhores interesses",
+          "Tomar ações ousadas"
+        ],
+        "shadow": [
+          "Ceder à fraqueza, mesmo sabendo que isso prejudicará sua saúde e felicidade",
+          "Permanecer no vício",
+          "Permitir que seus instintos o domem e o conquistem",
+          "Não se posicionar quando necessário"
+        ]
+      },
+      "Archetype": "A Lei",
+      "Hebrew Alphabet": "Lamed/Braços Estendidos/30 ou Theth/Cobra/9",
+      "Numerology": "8 (movimento, trabalho) ou 11 = 1 + 1 = 2 (debate, dualidade)",
+      "Elemental": "Libra ou Leão",
+      "Mythical/Spiritual": "Têmis ou Justitia. Ma'at. Salomão dividindo um bebê. A Espada de Dâmocles. A entrega dos Dez Mandamentos.",
+      "Questions to Ask": [
+        "Em que medida sua vida (ou trabalho) está equilibrada?",
+        "Como você pode alcançar maior objetividade?",
+        "Qual curso de ação seria justo para todos os envolvidos?"
+      ]
+    },
+    {
+      "name": "O Eremita",
+      "number": "9",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m09.jpg",
+      "fortune_telling": [
+        "Um período de solidão começa",
+        "Um parceiro em um relacionamento se afasta",
+        "Uma busca por amor ou dinheiro se mostra infrutífera"
+      ],
+      "keywords": [
+        "solidão",
+        "experiência",
+        "quietude",
+        "retirada"
+      ],
+      "meanings": {
+        "light": [
+          "Tornar-se ou buscar um guru",
+          "Fazer um retiro",
+          "Recarregar baterias espirituais ou criativas",
+          "Iluminar o caminho para aqueles com menos experiência",
+          "Afastar-se para ganhar perspectiva"
+        ],
+        "shadow": [
+          "Ser um solitário",
+          "Temer o contato com os outros",
+          "Tornar-se um 'sabe-tudo'",
+          "Inflar alegações de especialização",
+          "Esconder suas habilidades e talentos por medo de não ser digno"
+        ]
+      },
+      "Archetype": "O Homem Santo",
+      "Hebrew Alphabet": "Yod/Mão/10",
+      "Numerology": "9 (plenitude, prontidão, maturidade)",
+      "Elemental": "Virgem",
+      "Mythical/Spiritual": "O Cristo, enquanto jejuava 40 dias no deserto. Chronos, o deus do tempo. Pai Tempo. Hermes.",
+      "Questions to Ask": [
+        "O que aconteceria se eu simplesmente me retirasse e não agisse?",
+        "Como posso ter alguma perspectiva sobre a situação?",
+        "Quem já trilhou este caminho antes de mim? Como posso conseguir a ajuda dele ou dela?"
+      ]
+    },
+    {
+      "name": "Roda da Fortuna",
+      "number": "10",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m10.jpg",
+      "fortune_telling": [
+        "Alguns eventos estão nas mãos do céu",
+        "Você já viveu isso antes",
+        "O que aconteceu naquela época?"
+      ],
+      "keywords": [
+        "sorte",
+        "aleatoriedade",
+        "ciclos",
+        "karma",
+        "destino",
+        "revolução"
+      ],
+      "meanings": {
+        "light": [
+          "Permitir que os eventos se desenrolem",
+          "Ver o padrão maior nos eventos cotidianos",
+          "Confiar na sua sorte",
+          "Observar os ciclos",
+          "Acreditar que 'o que vai, volta'"
+        ],
+        "shadow": [
+          "Perder dinheiro em jogos de azar",
+          "Recusar-se a fazer sua parte para levar um plano a bom termo",
+          "Adotar uma abordagem fatalista da vida",
+          "Lutar contra o curso natural dos eventos"
+        ]
+      },
+      "Archetype": "As Deusas do Destino/Destino",
+      "Hebrew Alphabet": "Koph/Palma/20",
+      "Numerology": "10 (finalidade, conclusão) e 10 = 1 + 0 = 1 (semente, oportunidade)",
+      "Elemental": "Júpiter",
+      "Mythical/Spiritual": "O Deus na Máquina. Deus ex Machina. Cloto, Láquesis e Átropos. Fortuna.",
+      "Questions to Ask": [
+        "Como este desafio se encaixa em um padrão maior?",
+        "Que papel a sorte desempenha nas minhas circunstâncias?",
+        "O que eu posso controlar? Como devo saber quando abrir mão do controle?"
+      ]
+    },
+    {
+      "name": "Justiça",
+      "number": "11",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m11.jpg",
+      "fortune_telling": [
+        "Um veredicto legal será proferido em breve",
+        "Alguém está tomando uma decisão",
+        "Você precisa obter os fatos"
+      ],
+      "keywords": [
+        "equilíbrio",
+        "lei",
+        "justiça",
+        "objetividade"
+      ],
+      "meanings": {
+        "light": [
+          "Tomar uma decisão objetiva",
+          "Pesar uma questão cuidadosamente antes de agir",
+          "Escalonar apropriadamente sua reação a uma situação",
+          "Obter todos os fatos",
+          "Considerar evidências",
+          "Deliberar"
+        ],
+        "shadow": [
+          "Fazer críticas duras",
+          "Obcecar-se com regras e regulamentos",
+          "Seguir o livro mesmo quando isso é destrutivo ou contraproducente",
+          "Confundir decisões precipitadas com ação oportuna",
+          "Ter favoritos"
+        ]
+      },
+      "Archetype": "O Id",
+      "Hebrew Alphabet": "Theth/Cobra/9 ou Lamed/Braços Estendidos/30",
+      "Numerology": "11 = 1 + 1 = 2 (debate, dualidade) ou 8 (movimento, trabalho externo)",
+      "Elemental": "Leão ou Libra",
+      "Mythical/Spiritual": "Sansão. Hércules. Daniel na cova dos leões. O Cristo sem pecado.",
+      "Questions to Ask": [
+        "Como posso aumentar minha autodisciplina?",
+        "Quais comportamentos me tentam? Como posso resistir?",
+        "Com quais instintos eu continuo a lutar hoje?"
+      ]
+    },
+    {
+      "name": "O Enforcado",
+      "number": "12",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m12.jpg",
+      "fortune_telling": [
+        "Um traidor é revelado",
+        "Um de seus amigos está trabalhando contra você",
+        "Mude seus modos ou sofra as consequências"
+      ],
+      "keywords": [
+        "iluminação",
+        "sacrifício",
+        "perspectiva",
+        "suspensão",
+        "inversões"
+      ],
+      "meanings": {
+        "light": [
+          "Ver oportunidades de crescimento em eventos desagradáveis",
+          "Experimentar uma mudança dramática na perspectiva pessoal",
+          "Tirar o melhor proveito de uma mudança imprevista em sua vida ou trabalho",
+          "Suspender a descrença",
+          "Fazer sacrifícios"
+        ],
+        "shadow": [
+          "Ser infiel a si mesmo e aos seus valores",
+          "Recusar-se a fazer sacrifícios quando apropriado",
+          "Recusar-se a se adaptar a novas situações",
+          "Culpar os outros",
+          "Tirar proveito às custas dos outros"
+        ]
+      },
+      "Archetype": "O Traidor",
+      "Hebrew Alphabet": "Mem/Água/40",
+      "Numerology": "12 = 1 + 2 = 3 (expressão, produtividade, resultado)",
+      "Elemental": "Água",
+      "Mythical/Spiritual": "O Cristo Crucificado. Isaque como sacrifício. Prometeu acorrentado. Jonas e a baleia. Lázaro. Qualquer deus enforcado ou sacrificado. Judas.",
+      "Questions to Ask": [
+        "Como posso alterar radicalmente minha perspectiva?",
+        "Como estar preso pode ser uma bênção disfarçada?",
+        "Como posso me ajudar a ver o copo meio cheio?"
+      ]
+    },
+    {
+      "name": "Morte",
+      "number": "13",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m13.jpg",
+      "fortune_telling": [
+        "Um relacionamento ou doença termina de repente",
+        "Limite viagens e riscos",
+        "Nuvem de desgraça e tristeza geral"
+      ],
+      "keywords": [
+        "fim",
+        "conclusão",
+        "transição",
+        "passagem",
+        "partida"
+      ],
+      "meanings": {
+        "light": [
+          "Colocar um fim em uma fase desagradável da vida",
+          "Reconhecer e celebrar a conclusão de algo",
+          "Acabar com maus hábitos",
+          "Tornar-se uma nova pessoa",
+          "Deixar uma pessoa, lugar ou coisa por outra",
+          "Desapegar"
+        ],
+        "shadow": [
+          "Obcecar-se com a morte e o morrer",
+          "Recusar-se a abandonar velhos hábitos ou relacionamentos não saudáveis",
+          "Insistir que tudo e todos devem permanecer iguais para sempre",
+          "Não cuidar bem de si mesmo"
+        ]
+      },
+      "Archetype": "Morte",
+      "Hebrew Alphabet": "Nun/Peixe/50",
+      "Numerology": "13 = 1 + 3 = 4 (estabilidade, persistência)",
+      "Elemental": "Escorpião",
+      "Mythical/Spiritual": "Cristo no túmulo. Hades. Hypnos. Thanatos. Histórias de jornadas ao submundo.",
+      "Questions to Ask": [
+        "O que precisa acabar?",
+        "Como um fim pode ser uma bênção nesta situação?",
+        "O que vem a seguir?"
+      ]
+    },
+    {
+      "name": "Temperança",
+      "number": "14",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m14.jpg",
+      "fortune_telling": [
+        "Alguém está usando drogas ou álcool em excesso",
+        "É hora de voltar àquela dieta"
+      ],
+      "keywords": [
+        "mistura",
+        "síntese",
+        "mediação",
+        "combinação",
+        "harmonia"
+      ],
+      "meanings": {
+        "light": [
+          "Unir opostos",
+          "Moderar suas ações ou emoções",
+          "Encontrar um meio-termo",
+          "Chegar a compromissos",
+          "Sintetizar soluções que agradem a todos os envolvidos",
+          "Usar o antigo para fazer algo novo"
+        ],
+        "shadow": [
+          "Ir a extremos",
+          "Interromper esforços de grupo",
+          "Ignorar abordagens saudáveis para a vida",
+          "Tornar-se um viciado",
+          "Praticar a gula",
+          "Destruir algo ou alguém",
+          "Quebrar alianças"
+        ]
+      },
+      "Archetype": "O Mediador",
+      "Hebrew Alphabet": "Samekh/Fundação/60",
+      "Numerology": "14 = 1 + 4 = 5 (catalisador, instabilidade, confronto)",
+      "Elemental": "Sagitário",
+      "Mythical/Spiritual": "O anjo visto aqui pode ser a deusa Íris. Por extensão, padres, sacerdócios ou o Cristo transfigurado.",
+      "Questions to Ask": [
+        "Como posso evitar extremos?",
+        "O que todos os envolvidos têm em comum?",
+        "Como a combinação de coisas familiares pode me ajudar a criar algo novo?"
+      ]
+    },
+    {
+      "name": "O Diabo",
+      "number": "15",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m15.jpg",
+      "fortune_telling": [
+        "Adultério e infidelidade",
+        "Uma sequência de má sorte extrema está chegando",
+        "Cuidado com influências malignas e lobos em pele de cordeiro"
+      ],
+      "keywords": [
+        "sombra",
+        "materialismo",
+        "escravidão",
+        "ilusão"
+      ],
+      "meanings": {
+        "light": [
+          "Apreciar os luxos que a vida tem a oferecer",
+          "Sentir-se confortável na própria pele",
+          "Aproveitar sua sexualidade",
+          "Gastar em um item pessoal caro",
+          "Aceitar o fato de que todos têm um lado mais sombrio",
+          "Lidar com impulsos não saudáveis de maneiras saudáveis"
+        ],
+        "shadow": [
+          "Dar ênfase excessiva às aparências",
+          "Querer sempre mais",
+          "Valorizar posses mais do que pessoas ou relacionamentos",
+          "Permitir que instintos básicos governem sua vida",
+          "Ser egoísta",
+          "Atribuir seus próprios impulsos sombrios a forças externas ou a outras pessoas"
+        ]
+      },
+      "Archetype": "A Sombra, O Outro",
+      "Hebrew Alphabet": "Ayin/Olho/70",
+      "Numerology": "15 = 1 + 5 = 6 (ajuste, colaboração)",
+      "Elemental": "Capricórnio",
+      "Mythical/Spiritual": "O Satanás Bíblico, com certeza. Anjos caídos, incluindo Lúcifer. Baco e Pã. Tentadores e serpentes de todas as espécies.",
+      "Questions to Ask": [
+        "O que me escraviza? Como posso me libertar?",
+        "Como posso reavaliar a importância que atribuo às coisas materiais?",
+        "Em que medida meus desejos me definem?"
+      ]
+    },
+    {
+      "name": "A Torre",
+      "number": "16",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m16.jpg",
+      "fortune_telling": [
+        "Desastre iminente",
+        "Cancele planos e reverta decisões",
+        "Alguém quer te diminuir",
+        "Não se contenha; diga o que você realmente quer dizer"
+      ],
+      "keywords": [
+        "demolição",
+        "agitação",
+        "desconstrução",
+        "desastre",
+        "destruição"
+      ],
+      "meanings": {
+        "light": [
+          "Sair de hábitos e mentalidades antigas e limitantes",
+          "Abrir caminho para um novo crescimento",
+          "Dissipar a influência de um ego inflado",
+          "Voltar ao básico",
+          "Eliminar ilusões prejudiciais",
+          "Receber uma visão repentina"
+        ],
+        "shadow": [
+          "Apegar-se a tradições que reprimem o crescimento",
+          "Engajar-se em cegueira intencional",
+          "Rejeitar evidências de que a mudança é necessária",
+          "Ignorar a orientação de um poder superior",
+          "Engajar-se maliciosamente em comportamento destrutivo"
+        ]
+      },
+      "Archetype": "O Ego Estilhaçado",
+      "Hebrew Alphabet": "Pe[as]/Boca Aberta/80",
+      "Numerology": "16 = 1 + 6 = 7 (psicologia, imaginação, trabalho interior)",
+      "Elemental": "Marte",
+      "Mythical/Spiritual": "A Torre de Babel. A destruição de Sodoma e Gomorra. A dança destrutiva de Shiva. O raio de Zeus e Thor.",
+      "Questions to Ask": [
+        "Como a situação atual pode alterar drasticamente minha perspectiva?",
+        "Como essa perda pode abrir a porta para um novo crescimento?",
+        "Que atitudes precisam ser derrubadas antes de eu prosseguir?"
+      ]
+    },
+    {
+      "name": "A Estrela",
+      "number": "17",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m17.jpg",
+      "fortune_telling": [
+        "Peça para fazer um mapa astral",
+        "Alguém está um pouco deslumbrado demais",
+        "O que está acontecendo agora já foi preordenado há muito tempo"
+      ],
+      "keywords": [
+        "esperança",
+        "otimismo",
+        "abertura",
+        "certeza",
+        "fé",
+        "anseio",
+        "verdade"
+      ],
+      "meanings": {
+        "light": [
+          "Esperar o melhor",
+          "Acreditar que coisas boas acontecem com pessoas boas",
+          "Ver os eventos da melhor maneira possível",
+          "Adotar um espírito generoso",
+          "Buscar orientação do alto",
+          "Abraçar a possibilidade em vez da probabilidade"
+        ],
+        "shadow": [
+          "Negar verdades desagradáveis",
+          "Negar a responsabilidade pessoal e dizer: 'As coisas simplesmente acontecem!'",
+          "Ignorar sinais e presságios",
+          "Preferir a ilusão à realidade",
+          "Espalhar pessimismo e mesquinhez de espírito"
+        ]
+      },
+      "Archetype": "O Guia Celestial",
+      "Hebrew Alphabet": "Tzaddi/Anzol/90 ou, em alguns baralhos, He[as]/Janela/5",
+      "Numerology": "17 = 1 + 7 = 8 (ação, movimento, rapidez)",
+      "Elemental": "Aquário",
+      "Mythical/Spiritual": "A estrela que guiou os Reis Magos. Afrodite. Vênus. As Plêiades. Moisés tirando água da rocha.",
+      "Questions to Ask": [
+        "O que meu poder superior me direcionaria a fazer?",
+        "Como posso ser menos autoconsciente e guardado?",
+        "Como posso me sintonizar melhor com a abundância das bênçãos da vida?"
+      ]
+    },
+    {
+      "name": "A Lua",
+      "number": "18",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m18.jpg",
+      "fortune_telling": [
+        "Fique atento a problemas no final do mês",
+        "Alguém que você conhece precisa uivar para a lua com mais frequência",
+        "Alguém está prestes a mudar de ideia sobre uma decisão importante"
+      ],
+      "keywords": [
+        "mistério",
+        "fantasia",
+        "imaginação",
+        "sonhos",
+        "incerteza"
+      ],
+      "meanings": {
+        "light": [
+          "Desfrutar de fantasias e sonhos saudáveis",
+          "Usar sua imaginação",
+          "Praticar magia ou celebrar a magia da vida cotidiana",
+          "Sintonizar-se com os ciclos da natureza",
+          "Abraçar o desconhecido"
+        ],
+        "shadow": [
+          "Tornar-se incapaz de separar fantasia de realidade",
+          "Sofrer de delírios",
+          "Perder sua apreciação pelo fantástico ou mágico",
+          "Adotar uma mentalidade implacavelmente lógica",
+          "Não apreciar os mistérios da vida"
+        ]
+      },
+      "Archetype": "O Sagrado Feminino/A Anciã",
+      "Hebrew Alphabet": "Koph/Nuca/100",
+      "Numerology": "18 = 1 + 8 = 9 (plenitude, prontidão, maturidade)",
+      "Elemental": "Peixes",
+      "Mythical/Spiritual": "Kali, a mãe divina de pele escura associada ao tempo, à noite eterna e ao princípio feminino. Hécate, deusa da noite e da escuridão, que, como Anúbis, ajuda outros em suas viagens ao submundo.",
+      "Questions to Ask": [
+        "Como posso enfrentar meus medos e seguir em frente?",
+        "Que ajudantes podem me servir como guias através da minha escuridão pessoal?",
+        "Como posso lidar com o desconhecido de maneiras saudáveis?"
+      ]
+    },
+    {
+      "name": "O Sol",
+      "number": "19",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m19.jpg",
+      "fortune_telling": [
+        "Tudo está correndo bem (ou como girassóis, seja qual for o caso)",
+        "O que quer que esteja em sua mente, vá em frente, pois você não pode perder hoje"
+      ],
+      "keywords": [
+        "alegria",
+        "brilho",
+        "validação",
+        "atenção",
+        "energia"
+      ],
+      "meanings": {
+        "light": [
+          "Ver as coisas claramente",
+          "Experimentar alegria intensa",
+          "Celebrar seus próprios sucessos",
+          "Saber que você é bom no que faz",
+          "Ganhar reconhecimento por seu gênio pessoal"
+        ],
+        "shadow": [
+          "Ficar deslumbrado com suas próprias realizações",
+          "Ficar absorvido em sua própria autoimagem",
+          "Sentir-se apressado e distraído",
+          "Exigir-se ao ponto da exaustão",
+          "Exagerar suas habilidades ou deturpar suas conquistas"
+        ]
+      },
+      "Archetype": "O Sagrado Masculino",
+      "Hebrew Alphabet": "Resh/Cabeça/200",
+      "Numerology": "19 = 1 + 9 = 10 (conclusão, exaustão) 1 + 0 = 1 (ponto de partida, oportunidade)",
+      "Elemental": "O Sol",
+      "Mythical/Spiritual": "Deus Pai. Deuses do Sol, incluindo Rá, Apolo e Hélios. O momento do batismo. Reivindicar uma nova fé como sua.",
+      "Questions to Ask": [
+        "Como posso tirar o melhor proveito da atenção que está chegando?",
+        "Quais são meus objetivos espirituais mais elevados?",
+        "Como posso evitar ficar deslumbrado com a energia girando ao meu redor?"
+      ]
+    },
+    {
+      "name": "Julgamento",
+      "number": "20",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m20.jpg",
+      "fortune_telling": [
+        "Uma velha questão que você pensava ter acabado voltará à tona hoje",
+        "Prepare-se para grandes mudanças: términos, chamadas repentinas de velhos amigos e contratempos inesperados",
+        "Deus está tentando chamar sua atenção"
+      ],
+      "keywords": [
+        "avivamento",
+        "renovação",
+        "ressurreição",
+        "avaliação",
+        "convite"
+      ],
+      "meanings": {
+        "light": [
+          "Receber um chamado de despertar",
+          "Descobrir um novo propósito na vida",
+          "Tornar-se total e completamente você mesmo",
+          "Receber uma recompensa merecida",
+          "Passar em uma avaliação ou exame",
+          "Saudar o início de uma nova fase da vida"
+        ],
+        "shadow": [
+          "Ser pesado na balança e ser achado em falta",
+          "Não atingir um padrão bem definido",
+          "Ser pego vadiando ou se comportando mal",
+          "Não se preparar para um exame que você sabe que está chegando",
+          "Rejeitar uma oportunidade de se reinventar"
+        ]
+      },
+      "Archetype": "Ressurreição",
+      "Hebrew Alphabet": "Sin/Dente/300",
+      "Numerology": "20 = 2 + 0 = 2 (divisão, dualidade)",
+      "Elemental": "Fogo",
+      "Mythical/Spiritual": "O Cristo ressuscitado. O Último Julgamento da Revelação. A fênix, que renasce das próprias cinzas.",
+      "Questions to Ask": [
+        "Qual é a principal coisa que preciso perceber sobre mim?",
+        "De que maneira o universo pode estar tentando chamar minha atenção?",
+        "Se eu fosse me reinventar, o que eu me tornaria?"
+      ]
+    },
+    {
+      "name": "O Mundo",
+      "number": "21",
+      "arcana": "Arcano Maior",
+      "suit": "Trunfo",
+      "img": "m21.jpg",
+      "fortune_telling": [
+        "Ganhar na loteria",
+        "Conseguir o desejo do seu coração",
+        "Ter tudo o que você sempre imaginou ter"
+      ],
+      "keywords": [
+        "totalidade",
+        "integração",
+        "plenitude",
+        "conclusão",
+        "abundância"
+      ],
+      "meanings": {
+        "light": [
+          "Ter tudo",
+          "Conhecer e amar a si mesmo da forma mais completa possível",
+          "Ver a interconexão de todas as coisas e pessoas",
+          "Aumentar sua perspectiva",
+          "Viver a vida ao máximo",
+          "Compreender o significado da vida"
+        ],
+        "shadow": [
+          "Permitir que a ganância e a inveja o impeçam de desfrutar do que você possui",
+          "Não ver o desenho maior nos eventos comuns",
+          "Acreditar que tudo o que existe pode ser tocado, contado ou medido",
+          "Não ver o divino refletido naqueles ao seu redor"
+        ]
+      },
+      "Archetype": "Iluminação",
+      "Hebrew Alphabet": "Tau/Cruz/400",
+      "Numerology": "21 = 2 + 1 = 3 (expressão, resultado)",
+      "Elemental": "Saturno",
+      "Mythical/Spiritual": "O Cristo ascensionado. O Buda alcançando a iluminação. O alfa e o ômega. A conclusão da grande obra do alquimista.",
+      "Questions to Ask": [
+        "Para mim, o que significaria ter tudo?",
+        "Quão consciente estou da minha própria conexão com o mundo ao meu redor?",
+        "O que me impede de ter tudo agora, hoje?"
+      ]
+    },
+    {
+      "name": "Ás de Copas",
+      "number": "1",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c01.jpg",
+      "fortune_telling": [
+        "Romance está nas cartas",
+        "Um novo relacionamento ou casamento está chegando",
+        "Orações são respondidas"
+      ],
+      "keywords": [
+        "intuição",
+        "espiritualidade",
+        "afeição",
+        "motivação"
+      ],
+      "meanings": {
+        "light": [
+          "Confiar nos seus sentimentos",
+          "Abrir-se ao espírito",
+          "Aceitar e retribuir afeição",
+          "Entrar em contato com o que te motiva",
+          "Aproveitar uma oportunidade para expressar amor aos outros",
+          "Ouvir a voz mansa e delicada"
+        ],
+        "shadow": [
+          "Esconder seus sentimentos",
+          "Rejeitar uma oportunidade de amar ou ser amado",
+          "Insensibilizar-se aos anseios espirituais",
+          "Rejeitar o conselho do seu coração",
+          "Tornar-se um fantoche de suas próprias emoções",
+          "Ceder à histeria ou obsessão"
+        ]
+      },
+      "Numerology": "1 (A Origem: o ponto de partida, a semente, oportunidade)",
+      "Astrology": "Câncer, Escorpião, Peixes",
+      "Affirmation": "\"Eu escuto o conselho do meu coração.\"",
+      "Questions to Ask": [
+        "O que estou sentindo agora?",
+        "Como eu faria para me abrir à orientação espiritual?",
+        "O que mais me motiva - prazer ou dor? Por quê?"
+      ]
+    },
+    {
+      "name": "Dois de Copas",
+      "number": "2",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c02.jpg",
+      "fortune_telling": [
+        "Alguém tem uma queda secreta por você",
+        "Relacionamentos devem ser mútuos; livre-se de um parasita"
+      ],
+      "keywords": [
+        "união",
+        "atração",
+        "combinação",
+        "afeição"
+      ],
+      "meanings": {
+        "light": [
+          "Ser atraído por alguém",
+          "Ansiar por alguém ou algo",
+          "Agir sobre seus desejos",
+          "Descobrir que um sentimento é mútuo",
+          "Fazer o que te faz sentir bem",
+          "Fundir-se",
+          "Curar laços quebrados",
+          "Admitir que duas pessoas se sentem diferentes uma pela outra e seguir em frente"
+        ],
+        "shadow": [
+          "Queimar pontes",
+          "Ficar preso em codependência não saudável",
+          "Excluir qualquer um, exceto seus escolhidos",
+          "Obcecar-se com alguém que não retribui seus afetos",
+          "Desesperar por encontrar \"A Pessoa Certa\"",
+          "Enganar-se sobre sua verdadeira orientação"
+        ]
+      },
+      "Numerology": "2 (O Outro: dualidade, divisão, debate)",
+      "Astrology": "Vênus em Câncer",
+      "Affirmation": "\"Estou sintonizado com o que meu coração realmente deseja.\"",
+      "Questions to Ask": [
+        "Como posso ter certeza de que o que estou sentindo é mútuo?\",",
+        "Quando foi a última vez que me senti \"apaixonado\" por alguém ou algo?",
+        "Do que você precisa para se sentir emocionalmente estável?"
+      ]
+    },
+    {
+      "name": "Três de Copas",
+      "number": "3",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c03.jpg",
+      "fortune_telling": [
+        "Romance não convencional está chegando: um caso de amor com alguém que você sempre desconsiderou"
+      ],
+      "keywords": [
+        "celebração",
+        "expressão",
+        "comunidade",
+        "amizade"
+      ],
+      "meanings": {
+        "light": [
+          "Celebrar seus sentimentos ou conexões com os outros",
+          "Expressar alegria através de música, dança ou afeto físico",
+          "Trabalhar junto com outros que compartilham seus sentimentos",
+          "Realizar atos de serviço como forma de dizer: \"Eu te amo\"",
+          "Abraçar arranjos românticos não convencionais"
+        ],
+        "shadow": [
+          "Confundir euforia com afeto verdadeiro",
+          "Ser dominado por emoções maníacas",
+          "Esperar que todos sintam sempre o mesmo que você",
+          "Exigir apoio irracional de amigos ou família",
+          "Festejar a um ponto perigoso ou não saudável"
+        ]
+      },
+      "Numerology": "3 (O Resultado: expressão, produtividade, resultado)",
+      "Astrology": "Mercúrio em Câncer",
+      "Affirmation": "\"Eu permito que minhas ações reflitam minhas verdadeiras emoções.\"",
+      "Questions to Ask": [
+        "O que vale a pena celebrar na minha vida?",
+        "Como posso demonstrar meus sentimentos de maneiras apropriadas?",
+        "O que posso fazer para mostrar ao meu parceiro como realmente me sinto?"
+      ]
+    },
+    {
+      "name": "Quatro de Copas",
+      "number": "4",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c04.jpg",
+      "fortune_telling": [
+        "Um amante está ficando inquieto",
+        "Descubra o que ele ou ela precisa, ou novas oportunidades podem afastar seu parceiro"
+      ],
+      "keywords": [
+        "tédio",
+        "apatia",
+        "letargia",
+        "estabilidade",
+        "ingratidão"
+      ],
+      "meanings": {
+        "light": [
+          "Manter sua estabilidade emocional",
+          "Recusar-se a ceder a emoções avassaladoras",
+          "Apreciar o que você tem e recusar-se a dar como garantido",
+          "Ver o valor dos compromissos de longo prazo"
+        ],
+        "shadow": [
+          "Estar entediado",
+          "Sonhar acordado em detrimento do seu trabalho",
+          "Recusar-se a ser engajado pela oportunidade",
+          "Dar pessoas e relacionamentos como garantidos",
+          "Ignorar oportunidades românticas ou espirituais",
+          "Rejeitar a inspiração",
+          "Sentir que tudo deveria ficar \"exatamente como está\""
+        ]
+      },
+      "Numerology": "4 (O Status Quo: estabilidade, igualdade, persistência)",
+      "Astrology": "Lua em Câncer",
+      "Affirmation": "\"Eu aprecio o que me foi dado.\"",
+      "Questions to Ask": [
+        "Como posso usar esse \"tempo de inatividade\" para minha melhor vantagem?",
+        "Como posso mostrar ao meu parceiro que não o dou como garantido?",
+        "Em que medida meu humor está me cegando para novas oportunidades?"
+      ]
+    },
+    {
+      "name": "Cinco de Copas",
+      "number": "5",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c05.jpg",
+      "fortune_telling": [
+        "Um rompimento se aproxima",
+        "Não chore pelo leite derramado",
+        "Aceite suas perdas e volte à ação"
+      ],
+      "keywords": [
+        "perda",
+        "desespero",
+        "reavaliação",
+        "arrependimento",
+        "incerteza",
+        "penitência"
+      ],
+      "meanings": {
+        "light": [
+          "Reconhecer a perda e seguir em frente",
+          "Focar em como o copo ainda está \"meio cheio\"",
+          "Encontrar o lado positivo em uma nuvem escura",
+          "Reconhecer que a perda é uma parte natural da vida",
+          "Abraçar o luto saudável",
+          "Aprender lições com consequências duras"
+        ],
+        "shadow": [
+          "Revolver-se em luto não saudável ou autopiedade",
+          "Recusar-se a seguir em frente e desapegar",
+          "Apegar-se ao passado",
+          "Obcecar-se com vidas passadas e amores passados",
+          "Não viver no presente",
+          "Martirizar-se por erros passados",
+          "Permitir que o medo do fracasso limite seus esforços"
+        ]
+      },
+      "Numerology": "5 (O Catalisador: instabilidade, resistência, confronto)",
+      "Astrology": "Marte em Escorpião",
+      "Affirmation": "\"Eu aprendo com minhas perdas e sigo em frente.\"",
+      "Questions to Ask": [
+        "Como eu costumo lidar com a perda?",
+        "Que lição de vida posso estar aprendendo agora?",
+        "Como posso mudar minha atenção do passado para o futuro?"
+      ]
+    },
+    {
+      "name": "Seis de Copas",
+      "number": "6",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c06.jpg",
+      "fortune_telling": [
+        "Um espírito mesquinho está sufocando seu prazer pela vida",
+        "Relaxe e pense nos outros por uma vez, por que não?"
+      ],
+      "keywords": [
+        "caridade",
+        "compartilhamento",
+        "sacrifício",
+        "cooperação",
+        "justiça"
+      ],
+      "meanings": {
+        "light": [
+          "Doar seu tempo e talentos aos outros",
+          "Sentir satisfação em saber como seus esforços ajudarão os outros",
+          "Criar um cenário de \"ganha-ganha\"",
+          "Doar mesmo quando você sabe que o reembolso não é possível",
+          "Estar motivado a fazer uma boa ação"
+        ],
+        "shadow": [
+          "Ligar seu senso de valor próprio às avaliações dos outros",
+          "Esforçar-se para parecer mais necessitado do que realmente é",
+          "Aceitar caridade não merecida ou injusta",
+          "Gab-se de seus esforços de caridade",
+          "Lucrar em tempos de aflição",
+          "Recusar-se a compartilhar um fardo"
+        ]
+      },
+      "Numerology": "6 (O Ajuste: cooperação, colaboração, interação)",
+      "Astrology": "Sol em Escorpião",
+      "Affirmation": "\"Eu me dou livremente aos outros, não esperando nada em troca.\"",
+      "Questions to Ask": [
+        "Que presentes eu possuo? Com que liberdade eu os dou?",
+        "Como posso praticar a doação incondicional?",
+        "Como as coisas mudariam se eu me tornasse uma pessoa mais caridosa?"
+      ]
+    },
+    {
+      "name": "Sete de Copas",
+      "number": "7",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c07.jpg",
+      "fortune_telling": [
+        "Estão te dando uma conversa fiada",
+        "Em vez de se deslumbrar com palavras e promessas bonitas, exija algo real"
+      ],
+      "keywords": [
+        "imaginação",
+        "sonhos",
+        "ilusões",
+        "metas"
+      ],
+      "meanings": {
+        "light": [
+          "Motivar-se com imagens de sucesso futuro",
+          "Usar a visualização para encorajar o progresso",
+          "Adotar uma abordagem imaginativa ou criativa para resolver problemas",
+          "Tornar sonhos realidade",
+          "Obter insights de visões pessoais"
+        ],
+        "shadow": [
+          "Obcecar-se com medos imaginários ou consequências incertas",
+          "Ceder ao terrorismo emocional ou político",
+          "Passar mais tempo sonhando do que trabalhando",
+          "Não prever as possíveis repercussões de suas escolhas",
+          "Ser controlado pelo medo"
+        ]
+      },
+      "Numerology": "7 (O Motivo: imaginação, trabalho interior, psicologia)",
+      "Astrology": "Vênus em Escorpião",
+      "Affirmation": "\"Eu uso a visão interior como uma ferramenta para o crescimento.\"",
+      "Questions to Ask": [
+        "O que você mais quer? O que você mais teme? Como eles estão relacionados?",
+        "Como sua imaginação está trabalhando a seu favor? Contra você?",
+        "Como uma visão pessoal mais clara pode ajudá-lo a escolher uma única taça entre as muitas disponíveis?"
+      ]
+    },
+    {
+      "name": "Oito de Copas",
+      "number": "8",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c08.jpg",
+      "fortune_telling": [
+        "Alguém está \"saindo\" de você, agora ou em um futuro próximo",
+        "Talvez seja hora de parar de falar sobre o problema e simplesmente seguir em frente"
+      ],
+      "keywords": [
+        "anseio",
+        "insatisfação",
+        "busca",
+        "partida",
+        "retirada"
+      ],
+      "meanings": {
+        "light": [
+          "Querer algo melhor",
+          "Abrir seu próprio caminho",
+          "Perceber que deve haver mais na vida",
+          "Deixar para trás uma situação não saudável",
+          "Começar seu próprio negócio",
+          "Fazer um retiro",
+          "Buscar a \"voz mansa e delicada\""
+        ],
+        "shadow": [
+          "Ser implacável",
+          "Encontrar defeitos",
+          "Criticar em detalhes",
+          "Recusar-se a se acalmar",
+          "Fugir de problemas ou confrontos",
+          "Dizer: \"É do meu jeito ou nada!\"",
+          "Insistir em erros e decepções passadas",
+          "Ameaçar desistir como estratégia para conseguir o que quer"
+        ]
+      },
+      "Numerology": "8 (A Ação: movimento, trabalho externo, rapidez)",
+      "Astrology": "Saturno em Peixes",
+      "Affirmation": "\"Estou sempre aberto a oportunidades de crescimento.\"",
+      "Questions to Ask": [
+        "O que preciso deixar para trás de uma vez por todas?",
+        "Se eu saísse em busca de \"mais\", o que estaria procurando, exatamente?",
+        "Como um retiro pode melhorar minha perspectiva?"
+      ]
+    },
+    {
+      "name": "Nove de Copas",
+      "number": "9",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c09.jpg",
+      "fortune_telling": [
+        "O que quer que você queira, você vai conseguir"
+      ],
+      "keywords": [
+        "satisfação",
+        "sensualidade",
+        "luxo",
+        "prazer"
+      ],
+      "meanings": {
+        "light": [
+          "Estar encantado com suas próprias conquistas",
+          "Reconhecer seus próprios talentos e habilidades",
+          "Deleitar-se nas coisas boas que a vida tem a oferecer",
+          "Mimar-se",
+          "Relaxar e descontrair",
+          "Ter tudo o que você precisa para se sentir completo"
+        ],
+        "shadow": [
+          "Ser presunçoso",
+          "Satisfazer-se às custas dos outros",
+          "Ser egoísta",
+          "Exagerar",
+          "Evitar o trabalho que precisa ser feito",
+          "Reivindicar conquistas ou habilidades que você não possui",
+          "Nunca estar satisfeito, não importa o quanto você tenha"
+        ]
+      },
+      "Numerology": "9 (A Conclusão: plenitude, prontidão, maturidade)",
+      "Astrology": "Júpiter em Peixes",
+      "Affirmation": "\"Eu tenho tudo o que preciso para ser feliz.\"",
+      "Questions to Ask": [
+        "O que é a verdadeira felicidade?",
+        "Se eu pudesse ter qualquer coisa, o que eu teria?",
+        "Qual é a minha atitude em relação ao luxo? Eu mereço isso?"
+      ]
+    },
+    {
+      "name": "Dez de Copas",
+      "number": "10",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c10.jpg",
+      "fortune_telling": [
+        "Casamento e família estão nas cartas",
+        "Espere que uma amizade floresça em um romance"
+      ],
+      "keywords": [
+        "alegria",
+        "realização",
+        "emoção avassaladora",
+        "euforia"
+      ],
+      "meanings": {
+        "light": [
+          "Ter mais do que você jamais sonhou",
+          "Ser profundamente grato por tudo que lhe foi dado",
+          "Reconhecer a Mão de Deus nos presentes que o Universo traz até você",
+          "Experimentar alegria transcendente",
+          "Alcançar a felicidade doméstica"
+        ],
+        "shadow": [
+          "Comparar suas conquistas ou relacionamentos a padrões de fantasia irrealistas",
+          "Experimentar emoções tão intensas que atrapalham sua capacidade de lidar com a realidade",
+          "Sentir-se sobrecarregado",
+          "Invejar as conquistas e a felicidade dos outros"
+        ]
+      },
+      "Numerology": "10 (O Fim: finalidade, conclusão, exaustão)",
+      "Astrology": "Marte em Peixes",
+      "Affirmation": "\"Eu dedico um tempo para apreciar o que me foi dado.\"",
+      "Questions to Ask": [
+        "Quem define o que é \"alegria\"?",
+        "Que curso de ação está disponível quando você se sente sobrecarregado?",
+        "Como votos ou promessas podem desempenhar um papel na obtenção de um nível maior de alegria em sua vida?"
+      ]
+    },
+    {
+      "name": "Pajem de Copas",
+      "number": "11",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c11.jpg",
+      "fortune_telling": [
+        "Um novo amigo entra em sua vida",
+        "Você terá a chance de se reconectar com um velho amigo"
+      ],
+      "keywords": [
+        "felicidade",
+        "alegria",
+        "otimismo",
+        "idealismo",
+        "afeto"
+      ],
+      "meanings": {
+        "light": [
+          "Expressar emoções livremente",
+          "Encontrar alegria na vida cotidiana",
+          "Ver o copo \"meio cheio\"",
+          "Seguir o conselho do seu coração",
+          "Permitir que a felicidade o guie",
+          "Incentivar os outros"
+        ],
+        "shadow": [
+          "Viver em um mundo de sonhos",
+          "Ter expectativas irrealistas",
+          "Ser emocionalmente imaturo",
+          "Não apreciar o valor do humor",
+          "Recusar-se a ver as coisas de forma clara",
+          "Ser desonesto sobre seus sentimentos",
+          "Ser muito exigente com os outros"
+        ]
+      },
+      "Numerology": "11 = 1 + 1 = 2 (A Dupla: divisão, debate, dualidade)",
+      "Astrology": "Peixes, Escorpião, Câncer",
+      "Affirmation": "\"Eu sou grato pelo dom da emoção.\"",
+      "Questions to Ask": [
+        "Qual é o primeiro passo para realizar o sonho que está em meu coração?",
+        "De que maneira o otimismo é apropriado agora?",
+        "O que me inspira a ser mais feliz?"
+      ]
+    },
+    {
+      "name": "Cavaleiro de Copas",
+      "number": "12",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c12.jpg",
+      "fortune_telling": [
+        "Um convite está chegando",
+        "Prepare-se para fazer uma jornada"
+      ],
+      "keywords": [
+        "oportunidade",
+        "proposta",
+        "movimento",
+        "viagem"
+      ],
+      "meanings": {
+        "light": [
+          "Seguir seu coração",
+          "Seguir seu instinto",
+          "Aceitar um convite",
+          "Viver a vida de uma forma que reflita suas crenças",
+          "Ir em um encontro romântico",
+          "Fazer uma viagem que você sempre sonhou",
+          "Fazer um gesto ousado e romântico"
+        ],
+        "shadow": [
+          "Recusar um convite porque você está com medo",
+          "Permitir que a indecisão atrase uma decisão importante",
+          "Ser passivo-agressivo",
+          "Fazer a coisa errada com as melhores intenções",
+          "Entregar-se a pensamentos distorcidos",
+          "Viver em um mundo de fantasia"
+        ]
+      },
+      "Numerology": "12 = 1 + 2 = 3 (A Expressão: expressão, produtividade, resultado)",
+      "Astrology": "Peixes, Escorpião, Câncer",
+      "Affirmation": "\"Eu abraço as oportunidades que se apresentam.\"",
+      "Questions to Ask": [
+        "O que seria um gesto grandioso de amor?",
+        "Qual jornada estou sendo convidado a fazer?",
+        "O que aconteceria se eu seguisse um palpite?"
+      ]
+    },
+    {
+      "name": "Rainha de Copas",
+      "number": "13",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c13.jpg",
+      "fortune_telling": [
+        "Um romance de escritório pode estar se formando",
+        "Uma mulher mais velha oferece conselhos inestimáveis",
+        "Procure uma oportunidade de se envolver em trabalho social"
+      ],
+      "keywords": [
+        "maturidade",
+        "visão",
+        "sabedoria",
+        "serenidade",
+        "conforto"
+      ],
+      "meanings": {
+        "light": [
+          "Ser uma fonte de conforto e cura para os outros",
+          "Ser altamente intuitivo",
+          "Buscar orientação espiritual",
+          "Ser pacífico e amoroso",
+          "Ser paciente e gentil",
+          "Ter uma imaginação forte",
+          "Manter a calma sob pressão"
+        ],
+        "shadow": [
+          "Ser emocionalmente dependente dos outros",
+          "Usar a emoção para manipular os outros",
+          "Enganar-se sobre seus próprios sentimentos",
+          "Espalhar boatos",
+          "Buscar a atenção dos outros através de comportamento melodramático"
+        ]
+      },
+      "Numerology": "13 = 1 + 3 = 4 (A Estabilidade: estabilidade, igualdade, persistência)",
+      "Astrology": "Peixes, Escorpião, Câncer",
+      "Affirmation": "\"Eu sou um canal de conforto e cura.\"",
+      "Questions to Ask": [
+        "Como posso demonstrar mais amor incondicional?",
+        "Que voz de sabedoria devo procurar ouvir?",
+        "Qual seria a perspectiva mais calma sobre este assunto?"
+      ]
+    },
+    {
+      "name": "Rei de Copas",
+      "number": "14",
+      "arcana": "Arcano Menor",
+      "suit": "Copas",
+      "img": "c14.jpg",
+      "fortune_telling": [
+        "Um homem mais velho pode em breve dar conselhos úteis",
+        "Seu pai ou marido pode estar exagerando no álcool"
+      ],
+      "keywords": [
+        "sabedoria",
+        "calma",
+        "diplomacia",
+        "tolerância"
+      ],
+      "meanings": {
+        "light": [
+          "Usar a intuição para ajudar os outros",
+          "Servir como um conselheiro sábio",
+          "Manter-se calmo e equilibrado",
+          "Reconhecer a interconexão de todas as coisas",
+          "Expressar emoções abertamente sem ser emocionalmente dependente",
+          "Permitir-se rir e se divertir"
+        ],
+        "shadow": [
+          "Ser temperamental ou emocionalmente volátil",
+          "Dar conselhos ruins",
+          "Deixar que a emoção governe a razão",
+          "Ser desonesto ou trapaceiro",
+          "Usar a espiritualidade para fins egoístas"
+        ]
+      },
+      "Numerology": "14 = 1 + 4 = 5 (O Catalisador: instabilidade, resistência, confronto)",
+      "Astrology": "Peixes, Escorpião, Câncer",
+      "Affirmation": "\"Eu sou uma fonte de conselho e conforto.\"",
+      "Questions to Ask": [
+        "Como a experiência de vida pode me ajudar a equilibrar emoção e razão?",
+        "O que significa ser um homem sábio?",
+        "Qual seria o melhor conselho que eu poderia dar a alguém com o meu problema?"
+      ]
+    },
+    {
+      "name": "Ás de Espadas",
+      "number": "1",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s01.jpg",
+      "fortune_telling": [
+        "Uma nova ideia está prestes a ter sucesso",
+        "O futuro parece mais claro e limpo",
+        "Uma decisão está prestes a ser tomada"
+      ],
+      "keywords": [
+        "clareza",
+        "força",
+        "visão",
+        "sucesso",
+        "clareza"
+      ],
+      "meanings": {
+        "light": [
+          "Ver as coisas com clareza",
+          "Ter uma visão penetrante",
+          "Cortar a confusão",
+          "Ter uma ideia brilhante",
+          "Usar a força de sua mente para superar a adversidade",
+          "Conhecer a verdade",
+          "Focar na tarefa em questão"
+        ],
+        "shadow": [
+          "Usar a inteligência para fins cruéis",
+          "Ser excessivamente crítico",
+          "Ser frio ou desapaixonado",
+          "Usar argumentos para confundir ou enganar os outros",
+          "Perder o controle do seu temperamento",
+          "Tomar decisões que você sabe serem erradas"
+        ]
+      },
+      "Numerology": "1 (A Origem: o ponto de partida, a semente, oportunidade)",
+      "Astrology": "Gêmeos, Libra, Aquário",
+      "Affirmation": "\"Eu tenho a inteligência e o foco para ter sucesso.\"",
+      "Questions to Ask": [
+        "Que ideia pode mudar minha vida?",
+        "Como posso ver isso de uma perspectiva diferente?",
+        "Qual é a verdade que eu preciso conhecer?"
+      ]
+    },
+    {
+      "name": "Dois de Espadas",
+      "number": "2",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s02.jpg",
+      "fortune_telling": [
+        "Um inimigo tem uma arma apontada para você; prepare-se para se defender",
+        "Uma decisão deve ser tomada, mas você está evitando"
+      ],
+      "keywords": [
+        "impasse",
+        "incerteza",
+        "trégua",
+        "impasse",
+        "bloqueio"
+      ],
+      "meanings": {
+        "light": [
+          "Recusar-se a tomar partido",
+          "Esperar que as coisas se acalmem",
+          "Evitar a tentação",
+          "Chegar a um acordo por meio de um aperto de mão",
+          "Negociar um armistício",
+          "Ponderar cuidadosamente todas as evidências",
+          "Bloquear a entrada de pensamentos e sentimentos não saudáveis"
+        ],
+        "shadow": [
+          "Impasse emocional",
+          "Recusar-se a ver a verdade",
+          "Manter a calma sob pressão ao custo de sua saúde mental",
+          "Usar sua inteligência para se enganar",
+          "Ficar paralisado pela incerteza"
+        ]
+      },
+      "Numerology": "2 (O Outro: dualidade, divisão, debate)",
+      "Astrology": "Lua em Libra",
+      "Affirmation": "\"Eu honro os acordos que faço.\"",
+      "Questions to Ask": [
+        "O que não está sendo dito?",
+        "Como posso ser mais decisivo?",
+        "O que me impede de tomar uma decisão?"
+      ]
+    },
+    {
+      "name": "Três de Espadas",
+      "number": "3",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s03.jpg",
+      "fortune_telling": [
+        "Um relacionamento está prestes a terminar",
+        "Alguém está prestes a traí-lo",
+        "O mundo está prestes a quebrar seu coração"
+      ],
+      "keywords": [
+        "tristeza",
+        "separação",
+        "mágoa",
+        "dissociação"
+      ],
+      "meanings": {
+        "light": [
+          "Reconhecer que o conflito e a dor são partes inevitáveis da vida",
+          "Passar por um rompimento de relacionamento",
+          "Experimentar o luto",
+          "Ter um aborto espontâneo",
+          "Lidar com a separação ou divórcio",
+          "Experimentar o fim de uma parceria"
+        ],
+        "shadow": [
+          "Permitir que a tristeza se torne depressão",
+          "Ficar obcecado por mágoa do passado",
+          "Retomar um relacionamento abusivo",
+          "Ter ciúmes doentios",
+          "Ser excessivamente melancólico ou dramático",
+          "Rejeitar a ajuda dos outros"
+        ]
+      },
+      "Numerology": "3 (A Expressão: expressão, produtividade, resultado)",
+      "Astrology": "Saturno em Libra",
+      "Affirmation": "\"Eu me permito experimentar e processar minha dor.\"",
+      "Questions to Ask": [
+        "Como a dor pode ser uma motivação para a mudança?",
+        "Qual é a coisa mais dolorosa que você precisa aceitar agora?",
+        "Onde você experimentou uma separação recentemente?"
+      ]
+    },
+    {
+      "name": "Quatro de Espadas",
+      "number": "4",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s04.jpg",
+      "fortune_telling": [
+        "Aproveite as férias! Você precisa!",
+        "Uma doença é passageira e o repouso é seu único remédio"
+      ],
+      "keywords": [
+        "descanso",
+        "reclusão",
+        "recuperação",
+        "quietude"
+      ],
+      "meanings": {
+        "light": [
+          "Tirar uma folga",
+          "Recuperar-se de uma doença",
+          "Fazer um retiro espiritual",
+          "Manejar seu estresse com sabedoria",
+          "Reconhecer a necessidade de cura",
+          "Evitar a síndrome de burnout",
+          "Priorizar o autocuidado"
+        ],
+        "shadow": [
+          "Evitar o trabalho",
+          "Ser preguiçoso",
+          "Recusar-se a reconhecer que um problema existe",
+          "Fingir que está doente para não ir ao trabalho",
+          "Fazer-se de vítima",
+          "Evitar o estresse ficando permanentemente distraído"
+        ]
+      },
+      "Numerology": "4 (A Estabilidade: estabilidade, igualdade, persistência)",
+      "Astrology": "Júpiter em Libra",
+      "Affirmation": "\"Eu priorizo minha saúde e bem-estar.\"",
+      "Questions to Ask": [
+        "O que posso fazer para relaxar e descansar?",
+        "A que trabalho ou problema estou resistindo?",
+        "O que seria um retiro ideal para mim?"
+      ]
+    },
+    {
+      "name": "Cinco de Espadas",
+      "number": "5",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s05.jpg",
+      "fortune_telling": [
+        "Uma batalha não está indo do seu jeito",
+        "Você perdeu algo para um inimigo; procure recuperar o que perdeu"
+      ],
+      "keywords": [
+        "derrota",
+        "retirada",
+        "rendição",
+        "vitimização"
+      ],
+      "meanings": {
+        "light": [
+          "Escolher suas batalhas",
+          "Saber quando desistir",
+          "Reconhecer que as batalhas mentais podem ter um custo pesado",
+          "Permitir que os outros vençam",
+          "Separar-se de um argumento",
+          "Ser paciente e esperar por um momento mais propício"
+        ],
+        "shadow": [
+          "Lutar sujo",
+          "Ser cruel ou vingativo",
+          "Fugir de uma briga por covardia",
+          "Ser um tirano",
+          "Encontrar alegria na dor dos outros",
+          "Permanecer na dor mesmo quando o alívio está disponível"
+        ]
+      },
+      "Numerology": "5 (O Catalisador: instabilidade, resistência, confronto)",
+      "Astrology": "Vênus em Aquário",
+      "Affirmation": "\"Eu permito que os outros tenham seu momento, sabendo que eu terei o meu.\"",
+      "Questions to Ask": [
+        "Quando é apropriado recuar?",
+        "Quem me tratou com crueldade recentemente? Como eu reagirei?",
+        "Como a competição afeta meu comportamento?"
+      ]
+    },
+    {
+      "name": "Seis de Espadas",
+      "number": "6",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s06.jpg",
+      "fortune_telling": [
+        "Um homem mais velho pode estar prestes a morrer",
+        "Você está indo em uma viagem",
+        "Um novo trabalho está no horizonte, o que envolverá viagens"
+      ],
+      "keywords": [
+        "viagem",
+        "mudança",
+        "movimento",
+        "transição"
+      ],
+      "meanings": {
+        "light": [
+          "Mudar-se para uma nova casa ou trabalho",
+          "Mudar de crenças ou atitudes",
+          "Conhecer pessoas que o ajudarão a mudar para melhor",
+          "Deixar o passado para trás",
+          "Encontrar maior clareza mental e paz de espírito"
+        ],
+        "shadow": [
+          "Estar preso ou estagnado",
+          "Ter medo de fazer uma mudança",
+          "Sentir-se sobrecarregado pelas demandas de uma mudança",
+          "Não ter vontade de se mover ou mudar",
+          "Seguir em frente sem um plano"
+        ]
+      },
+      "Numerology": "6 (O Ajuste: cooperação, colaboração, interação)",
+      "Astrology": "Mercúrio em Aquário",
+      "Affirmation": "\"Eu dou as boas-vindas à mudança.\"",
+      "Questions to Ask": [
+        "Onde eu preciso fazer uma mudança?",
+        "Qual é o meu plano de ação para a mudança?",
+        "Como posso fazer uma transição que minimize a dor e a incerteza?"
+      ]
+    },
+    {
+      "name": "Sete de Espadas",
+      "number": "7",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s07.jpg",
+      "fortune_telling": [
+        "Aja com cautela, mas não perca uma boa oportunidade",
+        "Não tenha medo de agir contra a sabedoria convencional"
+      ],
+      "keywords": [
+        "atrevimento",
+        "audácia",
+        "desejo",
+        "coragem",
+        "furtividade"
+      ],
+      "meanings": {
+        "light": [
+          "Ser oportunista",
+          "Poder agir por conta própria",
+          "Ter coragem",
+          "Realizar uma fuga bem-sucedida",
+          "Resolver um problema complexo",
+          "Ser discreto sobre suas intenções",
+          "Satisfazer o desejo do seu coração"
+        ],
+        "shadow": [
+          "Roubar ou tomar o que não é seu",
+          "Mentir ou enganar",
+          "Ser passivo-agressivo",
+          "Fugir de uma responsabilidade",
+          "Agir de forma irresponsável",
+          "Ser pego em flagrante",
+          "Faltar com o compromisso"
+        ]
+      },
+      "Numerology": "7 (O Motivo: imaginação, trabalho interior, psicologia)",
+      "Astrology": "Lua em Aquário",
+      "Affirmation": "\"Eu sou ousado em meus esforços.\"",
+      "Questions to Ask": [
+        "O que posso conseguir se for ousado?",
+        "Quão importante é manter o segredo sobre minha situação?",
+        "Como posso ser mais esperto que a concorrência?"
+      ]
+    },
+    {
+      "name": "Oito de Espadas",
+      "number": "8",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s08.jpg",
+      "fortune_telling": [
+        "A doença o afeta de uma forma que o limita fisicamente",
+        "Você será criticado publicamente e injustamente"
+      ],
+      "keywords": [
+        "restrição",
+        "limitação",
+        "impotência",
+        "armadilha",
+        "crítica"
+      ],
+      "meanings": {
+        "light": [
+          "Reconhecer que você se sentiu impotente",
+          "Procurar maneiras de se libertar das restrições",
+          "Admitir que você pode ter se encurralado",
+          "Encontrar uma saída de uma situação ruim",
+          "Lidar com a crítica"
+        ],
+        "shadow": [
+          "Sentir-se oprimido e impotente",
+          "Ser uma vítima passiva",
+          "Recusar-se a aceitar ajuda",
+          "Permitir que o medo e a ansiedade o paralisem",
+          "Fingir que não há saída",
+          "Viver na negação"
+        ]
+      },
+      "Numerology": "8 (A Ação: movimento, trabalho externo, rapidez)",
+      "Astrology": "Júpiter em Gêmeos",
+      "Affirmation": "\"Eu me liberto das restrições, uma de cada vez.\"",
+      "Questions to Ask": [
+        "O que me aprisiona?",
+        "Qual é a primeira coisa que preciso fazer para me libertar?",
+        "O que está acontecendo aqui que eu me recuso a ver?"
+      ]
+    },
+    {
+      "name": "Nove de Espadas",
+      "number": "9",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s09.jpg",
+      "fortune_telling": [
+        "Um amigo o trairá",
+        "Seus medos se tornarão realidade",
+        "Espere depressão ou tristeza profunda"
+      ],
+      "keywords": [
+        "preocupação",
+        "ansiedade",
+        "medo",
+        "pesadelos",
+        "angústia"
+      ],
+      "meanings": {
+        "light": [
+          "Lidar com o medo, a ansiedade e a preocupação",
+          "Enfrentar o que te aterroriza",
+          "Superar a insônia",
+          "Confrontar a dor ou a mágoa",
+          "Superar pesadelos",
+          "Compartilhar um fardo com os outros"
+        ],
+        "shadow": [
+          "Ruminar sobre o passado",
+          "Tentar fugir de problemas através do uso de drogas ou álcool",
+          "Estar cronicamente deprimido",
+          "Fugir de um problema ao invés de resolvê-lo",
+          "Sentir-se culpado e envergonhado",
+          "Culpar-se pelos problemas dos outros"
+        ]
+      },
+      "Numerology": "9 (A Conclusão: plenitude, prontidão, maturidade)",
+      "Astrology": "Marte em Gêmeos",
+      "Affirmation": "\"Eu escolho o pensamento sobre o medo.\"",
+      "Questions to Ask": [
+        "O que eu mais temo?",
+        "Quão justificados são meus medos?",
+        "Como a ansiedade afeta minhas decisões?"
+      ]
+    },
+    {
+      "name": "Dez de Espadas",
+      "number": "10",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s10.jpg",
+      "fortune_telling": [
+        "Seu relacionamento (ou situação) está prestes a ter um fim muito ruim",
+        "A desgraça e o desespero o cercam"
+      ],
+      "keywords": [
+        "dor",
+        "colapso",
+        "miséria",
+        "fracasso",
+        "fim"
+      ],
+      "meanings": {
+        "light": [
+          "Aceitar o fim com graça",
+          "Reconhecer que você atingiu o fundo do poço",
+          "Compreender a pior coisa que pode acontecer",
+          "Encontrar alívio na certeza de que as coisas não podem piorar"
+        ],
+        "shadow": [
+          "Ressentir-se do fracasso",
+          "Recusar-se a admitir a derrota",
+          "Sentir-se sobrecarregado pela adversidade",
+          "Ter medo do pior",
+          "Ser fatalista",
+          "Fugir da dor em vez de enfrentá-la"
+        ]
+      },
+      "Numerology": "10 (O Fim: finalidade, conclusão, exaustão)",
+      "Astrology": "Sol em Gêmeos",
+      "Affirmation": "\"Eu sei que há vida após o fim.\"",
+      "Questions to Ask": [
+        "Qual é o pior cenário possível?",
+        "O que significa ter atingido o fundo do poço?",
+        "Como a aceitação me liberta da dor?"
+      ]
+    },
+    {
+      "name": "Pajem de Espadas",
+      "number": "11",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s11.jpg",
+      "fortune_telling": [
+        "Um espião o observa de perto",
+        "Seja cauteloso ao lidar com documentos legais; um pequeno erro pode prejudicá-lo"
+      ],
+      "keywords": [
+        "vigilância",
+        "prontidão",
+        "juventude",
+        "trapaça",
+        "conversa"
+      ],
+      "meanings": {
+        "light": [
+          "Estar alerta",
+          "Entregar-se à vigilância",
+          "Agir como um espião",
+          "Observar os outros",
+          "Estar à frente da curva",
+          "Ter ideias brilhantes",
+          "Falar com grande energia"
+        ],
+        "shadow": [
+          "Ser rude ou excessivamente crítico",
+          "Falar em excesso",
+          "Estar sempre à procura de uma luta",
+          "Fofocar",
+          "Ser mesquinho ou cruel",
+          "Vender informações a preço de banana",
+          "Descuidar de tarefas importantes"
+        ]
+      },
+      "Numerology": "11 = 1 + 1 = 2 (A Dupla: divisão, debate, dualidade)",
+      "Astrology": "Aquário, Gêmeos, Libra",
+      "Affirmation": "\"Eu vejo o mundo com clareza.\"",
+      "Questions to Ask": [
+        "O que posso aprender observando?",
+        "Que tipo de ideias tenho tido ultimamente?",
+        "Em que área estou sendo ingênuo ou ignorante?"
+      ]
+    },
+    {
+      "name": "Cavaleiro de Espadas",
+      "number": "12",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s12.jpg",
+      "fortune_telling": [
+        "Um jovem arrojado e confiante pode entrar em sua vida",
+        "Pode ser hora de ser mais ousado e assertivo em seus próprios esforços"
+      ],
+      "keywords": [
+        "ação",
+        "avanço",
+        "agressão",
+        "motivação"
+      ],
+      "meanings": {
+        "light": [
+          "Ser assertivo",
+          "Saber o que você quer e como conseguir",
+          "Avançar em seus próprios projetos",
+          "Ter foco",
+          "Competir para vencer",
+          "Saber que você está certo",
+          "Defender um princípio"
+        ],
+        "shadow": [
+          "Ser agressivo ou violento",
+          "Não pensar antes de agir",
+          "Ter pressa",
+          "Fazer inimigos desnecessários",
+          "Agir sem um plano",
+          "Ser muito teimoso para admitir que está errado"
+        ]
+      },
+      "Numerology": "12 = 1 + 2 = 3 (A Expressão: expressão, produtividade, resultado)",
+      "Astrology": "Aquário, Gêmeos, Libra",
+      "Affirmation": "\"Eu me movo com poder e propósito.\"",
+      "Questions to Ask": [
+        "O que significa 'avançar' na minha situação?",
+        "Qual é o plano de ataque mais inteligente?",
+        "Estou competindo com os outros ou comigo mesmo?"
+      ]
+    },
+    {
+      "name": "Rainha de Espadas",
+      "number": "13",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s13.jpg",
+      "fortune_telling": [
+        "Uma mulher astuta e poderosa pode oferecer sua ajuda, mas você deve ter cuidado",
+        "Esteja preparado para responder às perguntas de uma mulher poderosa"
+      ],
+      "keywords": [
+        "perspicácia",
+        "clareza",
+        "visão",
+        "objetividade",
+        "raciocínio"
+      ],
+      "meanings": {
+        "light": [
+          "Ser franco e honesto",
+          "Usar a inteligência para resolver problemas",
+          "Cortar o que não é essencial",
+          "Ser esperto, perspicaz e perspicaz",
+          "Reconhecer a motivação dos outros",
+          "Manter a calma, frieza e compostura"
+        ],
+        "shadow": [
+          "Ser sarcástico ou cínico",
+          "Recusar-se a mostrar emoção",
+          "Usar a inteligência para manipular os outros",
+          "Ser uma crítica implacável",
+          "Ter uma língua afiada",
+          "Não ter tato"
+        ]
+      },
+      "Numerology": "13 = 1 + 3 = 4 (A Estabilidade: estabilidade, igualdade, persistência)",
+      "Astrology": "Aquário, Gêmeos, Libra",
+      "Affirmation": "\"Eu uso minha mente para o bem, não para o mal.\"",
+      "Questions to Ask": [
+        "Como a objetividade me ajuda a ver o caminho a seguir?",
+        "O que preciso cortar?",
+        "O que significa para mim ser um pensador claro?"
+      ]
+    },
+    {
+      "name": "Rei de Espadas",
+      "number": "14",
+      "arcana": "Arcano Menor",
+      "suit": "Swords",
+      "img": "s14.jpg",
+      "fortune_telling": [
+        "Espere receber um conselho ou orientação valiosa",
+        "Uma figura de autoridade masculina em sua vida é imparcial e justa"
+      ],
+      "keywords": [
+        "autoridade",
+        "raciocínio",
+        "discernimento",
+        "equilíbrio"
+      ],
+      "meanings": {
+        "light": [
+          "Ter um intelecto superior",
+          "Ser objetivo e imparcial",
+          "Apreciar o conhecimento",
+          "Ver todos os lados de um problema",
+          "Ter uma mente lógica e analítica",
+          "Comunicar-se claramente"
+        ],
+        "shadow": [
+          "Ser excessivamente severo ou crítico",
+          "Usar a autoridade para intimidar",
+          "Ser cínico ou sarcástico",
+          "Exigir obediência total e completa",
+          "Rejeitar a emoção em favor da lógica implacável",
+          "Estar excessivamente preso à lei"
+        ]
+      },
+      "Numerology": "14 = 1 + 4 = 5 (O Catalisador: instabilidade, resistência, confronto)",
+      "Astrology": "Aquário, Gêmeos, Libra",
+      "Affirmation": "\"Eu uso minha inteligência para ajudar a mim e aos outros.\"",
+      "Questions to Ask": [
+        "Como a autoridade me afeta?",
+        "Qual é a verdade que eu preciso transmitir?",
+        "Como eu me saio ao comunicar notícias ruins?"
+      ]
+    },
+    {
+      "name": "Ás de Paus",
+      "number": "1",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w01.jpg",
+      "fortune_telling": [
+        "Uma nova ideia lhe dá energia",
+        "Você terá um novo emprego ou receberá uma promoção",
+        "Uma oportunidade criativa está à sua frente"
+      ],
+      "keywords": [
+        "inspiração",
+        "oportunidade",
+        "invenção",
+        "motivação"
+      ],
+      "meanings": {
+        "light": [
+          "Ser inspirado a agir",
+          "Ter uma ideia brilhante",
+          "Sentir-se cheio de energia",
+          "Abraçar uma nova oportunidade",
+          "Começar um novo projeto",
+          "Sentir-se criativo"
+        ],
+        "shadow": [
+          "Não aproveitar uma oportunidade",
+          "Sentir-se esgotado",
+          "Procrastinar",
+          "Ser cínico",
+          "Ter um bloqueio criativo",
+          "Estar preso no trabalho"
+        ]
+      },
+      "Numerology": "1 (A Origem: o ponto de partida, a semente, oportunidade)",
+      "Astrology": "Áries, Leão, Sagitário",
+      "Affirmation": "\"Minha paixão e inspiração me guiam.\"",
+      "Questions to Ask": [
+        "O que me inspira mais?",
+        "Como a criatividade pode ajudar a resolver este problema?",
+        "Qual é o primeiro passo para o meu novo projeto?"
+      ]
+    },
+    {
+      "name": "Dois de Paus",
+      "number": "2",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w02.jpg",
+      "fortune_telling": [
+        "Você precisará cooperar com os outros para realizar seus objetivos",
+        "Uma parceria inesperada em breve provará ser lucrativa"
+      ],
+      "keywords": [
+        "planejamento",
+        "decisão",
+        "avanço",
+        "descoberta"
+      ],
+      "meanings": {
+        "light": [
+          "Olhar para o futuro",
+          "Fazer planos",
+          "Ter uma visão clara de longo prazo",
+          "Tomar uma decisão com convicção",
+          "Sentir-se empoderado",
+          "Ter confiança e assertividade"
+        ],
+        "shadow": [
+          "Olhar para trás com desejo",
+          "Sentir-se paralisado pela incerteza",
+          "Ser indeciso",
+          "Sentir-se sem poder",
+          "Não ter um plano",
+          "Permitir que o medo o impeça de avançar"
+        ]
+      },
+      "Numerology": "2 (O Outro: dualidade, divisão, debate)",
+      "Astrology": "Marte em Áries",
+      "Affirmation": "\"Eu tenho a confiança para dar o próximo passo.\"",
+      "Questions to Ask": [
+        "Qual é o próximo passo mais óbvio?",
+        "O que me impede de ter certeza?",
+        "Quem é meu verdadeiro parceiro neste esforço?"
+      ]
+    },
+    {
+      "name": "Três de Paus",
+      "number": "3",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w03.jpg",
+      "fortune_telling": [
+        "Espere uma mensagem importante para chegar em breve",
+        "Você terá a chance de fazer uma viagem de negócios lucrativa"
+      ],
+      "keywords": [
+        "realização",
+        "avanço",
+        "visão",
+        "supervisão",
+        "liderança"
+      ],
+      "meanings": {
+        "light": [
+          "Ver os frutos do seu trabalho",
+          "Desfrutar da realização",
+          "Receber notícias encorajadoras",
+          "Ter uma boa visão de futuro",
+          "Ser um bom líder",
+          "Ver o quadro geral",
+          "Seguir em frente"
+        ],
+        "shadow": [
+          "Não enxergar a oportunidade",
+          "Recusar-se a seguir em frente",
+          "Sentir-se insatisfeito com o que foi realizado",
+          "Perder o controle do seu trabalho",
+          "Ser um microgerenciador",
+          "Rejeitar uma oportunidade de viajar"
+        ]
+      },
+      "Numerology": "3 (A Expressão: expressão, produtividade, resultado)",
+      "Astrology": "Sol em Áries",
+      "Affirmation": "\"Eu vejo o quadro geral.\"",
+      "Questions to Ask": [
+        "Quais são as coisas que me dão a visão mais ampla?",
+        "O que preciso fazer para ir além do que realizei?",
+        "Quem está me ajudando a alcançar meus objetivos?"
+      ]
+    },
+    {
+      "name": "Quatro de Paus",
+      "number": "4",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w04.jpg",
+      "fortune_telling": [
+        "Um novo relacionamento está no horizonte",
+        "Seu esforço será coroado de sucesso",
+        "A celebração está por vir"
+      ],
+      "keywords": [
+        "celebração",
+        "harmonia",
+        "casamento",
+        "lar",
+        "comunidade"
+      ],
+      "meanings": {
+        "light": [
+          "Apreciar a estabilidade e a paz",
+          "Celebrar uma conquista",
+          "Estar grato pelas suas bênçãos",
+          "Convidar os outros para sua casa",
+          "Ter um casamento ou parceria bem-sucedida",
+          "Estar orgulhoso da sua comunidade"
+        ],
+        "shadow": [
+          "Sentir-se limitado por regras ou regulamentos",
+          "Recusar-se a dar as boas-vindas aos outros",
+          "Sentir-se inquieto",
+          "Apegar-se demais a tradições ou à família",
+          "Desejar sair de casa"
+        ]
+      },
+      "Numerology": "4 (A Estabilidade: estabilidade, igualdade, persistência)",
+      "Astrology": "Vênus em Áries",
+      "Affirmation": "\"Eu crio alegria e harmonia em minha vida.\"",
+      "Questions to Ask": [
+        "Qual é a melhor maneira de celebrar meu sucesso?",
+        "Como posso tornar meu ambiente mais acolhedor?",
+        "Quais regras eu poderia afrouxar para o benefício de todos?"
+      ]
+    },
+    {
+      "name": "Cinco de Paus",
+      "number": "5",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w05.jpg",
+      "fortune_telling": [
+        "As pessoas estão prestes a brigar umas com as outras",
+        "Mantenha a calma, pois uma briga inesperada está prestes a eclodir"
+      ],
+      "keywords": [
+        "conflito",
+        "discordância",
+        "competição",
+        "luta",
+        "tensão"
+      ],
+      "meanings": {
+        "light": [
+          "Entrar em competição",
+          "Engajar-se em uma briga amigável",
+          "Ter uma discussão animada, mas produtiva",
+          "Reunir as tropas",
+          "Sentir a adrenalina da competição",
+          "Ser competitivo"
+        ],
+        "shadow": [
+          "Estar em uma briga",
+          "Sentir-se frustrado ou irritado",
+          "Não ter apoio para o seu trabalho",
+          "Sentir que o trabalho está estagnado",
+          "Ser beligerante",
+          "Lutar contra os outros",
+          "Não saber quando recuar"
+        ]
+      },
+      "Numerology": "5 (O Catalisador: instabilidade, resistência, confronto)",
+      "Astrology": "Saturno em Leão",
+      "Affirmation": "\"Eu lido com a discórdia com graça e elegância.\"",
+      "Questions to Ask": [
+        "Qual é a causa da discórdia?",
+        "Como a competição afeta meu desempenho?",
+        "O que eu ganho por ser competitivo?"
+      ]
+    },
+    {
+      "name": "Seis de Paus",
+      "number": "6",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w06.jpg",
+      "fortune_telling": [
+        "Seus planos serão bem-sucedidos",
+        "Prepare-se para uma promoção no trabalho",
+        "Você terá que defender suas convicções"
+      ],
+      "keywords": [
+        "vitória",
+        "sucesso",
+        "boas notícias",
+        "reconhecimento",
+        "elogio"
+      ],
+      "meanings": {
+        "light": [
+          "Ser reconhecido por suas conquistas",
+          "Receber elogios ou um prêmio",
+          "Ter sucesso em uma competição",
+          "Ter seus esforços validados",
+          "Sentir-se vitorioso",
+          "Liderar os outros com confiança",
+          "Aprender com o sucesso"
+        ],
+        "shadow": [
+          "Estar preso ao sucesso do passado",
+          "Ser muito orgulhoso",
+          "Recusar-se a assumir a responsabilidade",
+          "Ser excessivamente arrogante",
+          "Não conseguir liderar",
+          "Sentir-se derrotado",
+          "Recuar diante da crítica"
+        ]
+      },
+      "Numerology": "6 (O Ajuste: cooperação, colaboração, interação)",
+      "Astrology": "Júpiter em Leão",
+      "Affirmation": "\"Eu sou digno de aclamação.\"",
+      "Questions to Ask": [
+        "Como as conquistas passadas podem me ajudar agora?",
+        "Como o sucesso me afeta?",
+        "O que significa para mim ser vitorioso?"
+      ]
+    },
+    {
+      "name": "Sete de Paus",
+      "number": "7",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w07.jpg",
+      "fortune_telling": [
+        "Não recue",
+        "Você terá que lutar para proteger o que é seu"
+      ],
+      "keywords": [
+        "coragem",
+        "defesa",
+        "resolução",
+        "determinação"
+      ],
+      "meanings": {
+        "light": [
+          "Definir e manter limites",
+          "Proteger o que você criou",
+          "Ter coragem moral",
+          "Manter a calma sob ataque",
+          "Definir suas crenças",
+          "Confrontar a desonestidade",
+          "Defender-se"
+        ],
+        "shadow": [
+          "Desistir",
+          "Ser agressivo demais",
+          "Não ter coragem",
+          "Ser facilmente intimidado",
+          "Estar na defensiva",
+          "Ser teimoso"
+        ]
+      },
+      "Numerology": "7 (O Motivo: imaginação, trabalho interior, psicologia)",
+      "Astrology": "Marte em Leão",
+      "Affirmation": "\"Eu tenho a coragem de me defender.\"",
+      "Questions to Ask": [
+        "O que eu defendo?",
+        "Quem me ameaça?",
+        "Que lições aprendi sobre limites?"
+      ]
+    },
+    {
+      "name": "Oito de Paus",
+      "number": "8",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w08.jpg",
+      "fortune_telling": [
+        "Boas notícias de longe",
+        "A viagem que você está esperando será reservada em breve",
+        "Seus planos avançarão rapidamente"
+      ],
+      "keywords": [
+        "rapidez",
+        "ação",
+        "avanço",
+        "viagem",
+        "comunicação"
+      ],
+      "meanings": {
+        "light": [
+          "Avançar rapidamente",
+          "Obter aprovação",
+          "Atingir seu alvo",
+          "Receber notícias do exterior",
+          "Viajar por ar",
+          "Ir direto ao ponto",
+          "Estar motivado"
+        ],
+        "shadow": [
+          "Sentir-se apressado ou atrasado",
+          "Recuar",
+          "Sentir-se fora de controle",
+          "Perder o controle do seu trabalho",
+          "Aguardar por aprovação",
+          "Procrastinar",
+          "Não se comunicar com clareza"
+        ]
+      },
+      "Numerology": "8 (A Ação: movimento, trabalho externo, rapidez)",
+      "Astrology": "Mercúrio em Sagitário",
+      "Affirmation": "\"Eu me movo rapidamente em direção aos meus objetivos.\"",
+      "Questions to Ask": [
+        "Que ação posso tomar agora?",
+        "O que está prestes a ser resolvido?",
+        "Que notícias estou esperando?"
+      ]
+    },
+    {
+      "name": "Nove de Paus",
+      "number": "9",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w09.jpg",
+      "fortune_telling": [
+        "Prepare-se para uma surpresa inesperada",
+        "Você terá que lutar pelo que é seu"
+      ],
+      "keywords": [
+        "resiliência",
+        "persistência",
+        "luta",
+        "bússola moral"
+      ],
+      "meanings": {
+        "light": [
+          "Não desistir",
+          "Continuar apesar da adversidade",
+          "Ter a coragem de ser quem você é",
+          "Aprender com os erros",
+          "Permanecer fiel às suas crenças",
+          "Ter caráter",
+          "Estar pronto para o que vier"
+        ],
+        "shadow": [
+          "Ficar paranoico",
+          "Ser teimoso e inflexível",
+          "Esperar o pior",
+          "Recusar-se a aceitar ajuda",
+          "Estar na defensiva",
+          "Viver com medo"
+        ]
+      },
+      "Numerology": "9 (A Conclusão: plenitude, prontidão, maturidade)",
+      "Astrology": "Júpiter em Sagitário",
+      "Affirmation": "\"Eu tenho a força e a resiliência para superar qualquer desafio.\"",
+      "Questions to Ask": [
+        "O que significa para mim ser persistente?",
+        "Como a adversidade me torna mais forte?",
+        "O que estou defendendo?"
+      ]
+    },
+    {
+      "name": "Dez de Paus",
+      "number": "10",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w10.jpg",
+      "fortune_telling": [
+        "O fardo que você está carregando é grande demais",
+        "Você está a um passo do sucesso; não desista"
+      ],
+      "keywords": [
+        "sobrecarga",
+        "responsabilidade",
+        "esforço",
+        "conclusão"
+      ],
+      "meanings": {
+        "light": [
+          "Assumir muita responsabilidade",
+          "Sentir-se sobrecarregado",
+          "Chegar perto da linha de chegada",
+          "Trabalhar duro para alcançar um objetivo",
+          "Encontrar alegria no trabalho duro",
+          "Ser diligente"
+        ],
+        "shadow": [
+          "Não saber quando dizer não",
+          "Ser um workaholic",
+          "Sentir-se esgotado",
+          "Ser incapaz de delegar",
+          "Não ser honesto sobre as dificuldades",
+          "Aproximar-se do fracasso"
+        ]
+      },
+      "Numerology": "10 (O Fim: finalidade, conclusão, exaustão)",
+      "Astrology": "Saturno em Sagitário",
+      "Affirmation": "\"Eu só carrego o que posso lidar.\"",
+      "Questions to Ask": [
+        "O que posso largar?",
+        "Quem pode me ajudar a carregar o fardo?",
+        "Qual seria a sensação de estar livre deste fardo?"
+      ]
+    },
+    {
+      "name": "Pajem de Paus",
+      "number": "11",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w11.jpg",
+      "fortune_telling": [
+        "Uma jovem entra em sua vida com uma nova oportunidade",
+        "O trabalho lhe dará a chance de viajar"
+      ],
+      "keywords": [
+        "entusiasmo",
+        "oportunidade",
+        "impulso",
+        "ideia",
+        "impulso"
+      ],
+      "meanings": {
+        "light": [
+          "Ser entusiasmado com a vida",
+          "Ter um novo hobby ou interesse",
+          "Sentir-se cheio de energia",
+          "Avançar com ousadia",
+          "Ser um bom estudante",
+          "Ter um impulso para o sucesso"
+        ],
+        "shadow": [
+          "Ser um fanático",
+          "Ser muito imaturo para ter sucesso",
+          "Sentir-se desmotivado",
+          "Ser um procrastinador",
+          "Não ter um plano",
+          "Ser um 'sabe-tudo'"
+        ]
+      },
+      "Numerology": "11 = 1 + 1 = 2 (A Dupla: divisão, debate, dualidade)",
+      "Astrology": "Sagitário, Áries, Leão",
+      "Affirmation": "\"Eu recebo o dom da motivação.\"",
+      "Questions to Ask": [
+        "O que é excitante sobre o que está por vir?",
+        "Qual é o primeiro passo para o meu novo projeto?",
+        "O que posso aprender sobre o meu novo projeto?"
+      ]
+    },
+    {
+      "name": "Cavaleiro de Paus",
+      "number": "12",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w12.jpg",
+      "fortune_telling": [
+        "Seus planos serão frustrados",
+        "O tédio o faz querer se mover; você pode mudar de casa ou de emprego em breve"
+      ],
+      "keywords": [
+        "paixão",
+        "ação",
+        "avanço",
+        "ousadia"
+      ],
+      "meanings": {
+        "light": [
+          "Ser apaixonado por seu trabalho",
+          "Fazer um progresso rápido",
+          "Ir atrás do que você quer",
+          "Tomar decisões rápidas",
+          "Ser ousado e destemido",
+          "Sentir-se compelido a agir"
+        ],
+        "shadow": [
+          "Ser imprudente",
+          "Fazer inimigos",
+          "Ser impulsivo",
+          "Agir prematuramente",
+          "Não ter paciência",
+          "Ser facilmente distraído",
+          "Ser um intrometido"
+        ]
+      },
+      "Numerology": "12 = 1 + 2 = 3 (A Expressão: expressão, produtividade, resultado)",
+      "Astrology": "Sagitário, Áries, Leão",
+      "Affirmation": "\"Eu avanço com propósito e paixão.\"",
+      "Questions to Ask": [
+        "O que me motiva?",
+        "Qual é o meu plano de ataque mais inteligente?",
+        "O que seria um ato de ousadia agora?"
+      ]
+    },
+    {
+      "name": "Rainha de Paus",
+      "number": "13",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w13.jpg",
+      "fortune_telling": [
+        "Uma mulher enérgica e ambiciosa entra em sua vida",
+        "Seu sucesso atual é devido aos esforços de uma mulher"
+      ],
+      "keywords": [
+        "competência",
+        "liderança",
+        "força",
+        "visão"
+      ],
+      "meanings": {
+        "light": [
+          "Ser altamente competente",
+          "Estar no controle",
+          "Ser uma boa líder",
+          "Estar no centro das atenções",
+          "Ser apaixonado e motivado",
+          "Ter boa reputação",
+          "Ser confiante"
+        ],
+        "shadow": [
+          "Ser mandona",
+          "Ter ciúmes",
+          "Ser excessivamente exigente",
+          "Não ter tato",
+          "Ter a reputação de ser difícil",
+          "Ser arrogante ou vaidosa"
+        ]
+      },
+      "Numerology": "13 = 1 + 3 = 4 (A Estabilidade: estabilidade, igualdade, persistência)",
+      "Astrology": "Sagitário, Áries, Leão",
+      "Affirmation": "\"Eu sou uma líder competente e apaixonada.\"",
+      "Questions to Ask": [
+        "O que significa para mim ser poderoso?",
+        "Quem é a mulher poderosa em minha vida?",
+        "Como a confiança se manifesta em minha vida?"
+      ]
+    },
+    {
+      "name": "Rei de Paus",
+      "number": "14",
+      "arcana": "Arcano Menor",
+      "suit": "Wands",
+      "img": "w14.jpg",
+      "fortune_telling": [
+        "Seu sucesso atual é devido ao esforço de um homem",
+        "Você terá a chance de fazer uma viagem de negócios lucrativa"
+      ],
+      "keywords": [
+        "paixão",
+        "liderança",
+        "ambição",
+        "oportunidade",
+        "visão"
+      ],
+      "meanings": {
+        "light": [
+          "Liderar com paixão",
+          "Ser um bom chefe",
+          "Estar disposto a assumir riscos",
+          "Ter ambição",
+          "Estar focado no futuro",
+          "Ser visionário",
+          "Inspirar os outros"
+        ],
+        "shadow": [
+          "Ser muito exigente",
+          "Ser ditatorial",
+          "Ser um 'sabe-tudo'",
+          "Não saber delegar",
+          "Ser arrogante",
+          "Não ter visão",
+          "Não ter ambição"
+        ]
+      },
+      "Numerology": "14 = 1 + 4 = 5 (O Catalisador: instabilidade, resistência, confronto)",
+      "Astrology": "Sagitário, Áries, Leão",
+      "Affirmation": "\"Eu sou um líder de pessoas.\"",
+      "Questions to Ask": [
+        "O que significa para mim ser um líder?",
+        "Quem em minha vida é um modelo de liderança?",
+        "O que a ambição me permite fazer?"
+      ]
+    },
+    {
+      "name": "Ás de Ouros",
+      "number": "1",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p01.jpg",
+      "fortune_telling": [
+        "Uma nova fonte de renda está prestes a aparecer",
+        "Seus problemas de dinheiro estão prestes a terminar"
+      ],
+      "keywords": [
+        "prosperidade",
+        "oportunidade",
+        "riqueza",
+        "segurança",
+        "novidade"
+      ],
+      "meanings": {
+        "light": [
+          "Ter abundância",
+          "Sentir-se seguro",
+          "Comprar uma casa",
+          "Receber um aumento",
+          "Avançar em direção aos seus objetivos",
+          "Ter boa saúde",
+          "Ser um bom administrador"
+        ],
+        "shadow": [
+          "Não aproveitar uma oportunidade",
+          "Não ter segurança financeira",
+          "Ter medo de perder dinheiro",
+          "Ser ganancioso",
+          "Estar doente",
+          "Ser um mau administrador"
+        ]
+      },
+      "Numerology": "1 (A Origem: o ponto de partida, a semente, oportunidade)",
+      "Astrology": "Touro, Virgem, Capricórnio",
+      "Affirmation": "\"Eu dou as boas-vindas à abundância.\"",
+      "Questions to Ask": [
+        "Como a segurança financeira me faz sentir?",
+        "Qual é a melhor maneira de investir meus talentos?",
+        "O que me impede de alcançar a segurança financeira?"
+      ]
+    },
+    {
+      "name": "Dois de Ouros",
+      "number": "2",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p02.jpg",
+      "fortune_telling": [
+        "Um novo romance ou um novo emprego está no horizonte",
+        "Você terá que equilibrar finanças e família em breve"
+      ],
+      "keywords": [
+        "equilíbrio",
+        "escolha",
+        "adaptação",
+        "fluidez"
+      ],
+      "meanings": {
+        "light": [
+          "Ser adaptável",
+          "Estar disposto a correr riscos",
+          "Manter o equilíbrio",
+          "Ter duas fontes de renda",
+          "Escolher entre duas oportunidades",
+          "Estar no fluxo",
+          "Ser maleável"
+        ],
+        "shadow": [
+          "Sentir-se sobrecarregado",
+          "Não conseguir tomar uma decisão",
+          "Ser inflexível",
+          "Estar estagnado",
+          "Ser incapaz de mudar",
+          "Não ter foco",
+          "Sentir-se desconfortável"
+        ]
+      },
+      "Numerology": "2 (O Outro: dualidade, divisão, debate)",
+      "Astrology": "Júpiter em Capricórnio",
+      "Affirmation": "\"Eu me adapto à mudança com graça.\"",
+      "Questions to Ask": [
+        "O que eu mais valorizo?",
+        "Qual oportunidade me trará mais crescimento?",
+        "Como posso tornar meu ambiente mais maleável?"
+      ]
+    },
+    {
+      "name": "Três de Ouros",
+      "number": "3",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p03.jpg",
+      "fortune_telling": [
+        "Seu projeto será um sucesso",
+        "Você será reconhecido por seu trabalho"
+      ],
+      "keywords": [
+        "trabalho em equipe",
+        "colaboração",
+        "realização",
+        "construção"
+      ],
+      "meanings": {
+        "light": [
+          "Sentir-se competente",
+          "Ser bom no que faz",
+          "Trabalhar bem em equipe",
+          "Receber elogios",
+          "Ser recompensado por seu trabalho",
+          "Construir algo de valor",
+          "Ser um artesão"
+        ],
+        "shadow": [
+          "Fazer um trabalho ruim",
+          "Não ser reconhecido por seu trabalho",
+          "Ser preguiçoso",
+          "Não conseguir trabalhar em equipe",
+          "Ser excessivamente crítico",
+          "Sentir-se incompetente"
+        ]
+      },
+      "Numerology": "3 (A Expressão: expressão, produtividade, resultado)",
+      "Astrology": "Marte em Capricórnio",
+      "Affirmation": "\"Eu sou bom no que faço.\"",
+      "Questions to Ask": [
+        "O que significa para mim ser competente?",
+        "Quem pode me ajudar a alcançar meu objetivo?",
+        "Como a colaboração pode melhorar meu trabalho?"
+      ]
+    },
+    {
+      "name": "Quatro de Ouros",
+      "number": "4",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p04.jpg",
+      "fortune_telling": [
+        "Pode ser hora de vender um bem",
+        "Você terá que dar a um parente dinheiro que você prefere manter"
+      ],
+      "keywords": [
+        "segurança",
+        "economia",
+        "apego",
+        "avareza"
+      ],
+      "meanings": {
+        "light": [
+          "Sentir-se seguro",
+          "Ter controle sobre suas finanças",
+          "Ser frugal",
+          "Ser um bom administrador",
+          "Sentir-se enraizado",
+          "Ter uma base sólida",
+          "Ser persistente"
+        ],
+        "shadow": [
+          "Ser avarento",
+          "Ser ganancioso",
+          "Ter medo de perder dinheiro",
+          "Ser inseguro",
+          "Estar obcecado por posses",
+          "Recusar-se a compartilhar",
+          "Sentir-se preso"
+        ]
+      },
+      "Numerology": "4 (A Estabilidade: estabilidade, igualdade, persistência)",
+      "Astrology": "Sol em Capricórnio",
+      "Affirmation": "\"Eu sou grato pelo que possuo.\"",
+      "Questions to Ask": [
+        "O que eu valorizo mais?",
+        "O que significa para mim ser seguro?",
+        "Como a generosidade afeta minha vida?"
+      ]
+    },
+    {
+      "name": "Cinco de Ouros",
+      "number": "5",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p05.jpg",
+      "fortune_telling": [
+        "Uma doença afeta seu trabalho ou suas economias",
+        "Um revés inesperado afeta sua segurança financeira"
+      ],
+      "keywords": [
+        "perda",
+        "cuidado",
+        "pobreza",
+        "necessidade",
+        "rejeição"
+      ],
+      "meanings": {
+        "light": [
+          "Pedir ajuda",
+          "Reconhecer que você precisa de ajuda",
+          "Estar disposto a receber ajuda",
+          "Ser humilde",
+          "Ter fé",
+          "Encontrar força na adversidade",
+          "Reconhecer o valor da comunidade"
+        ],
+        "shadow": [
+          "Sentir-se carente",
+          "Ter vergonha de sua situação",
+          "Recusar-se a pedir ajuda",
+          "Isolar-se",
+          "Sentir-se abandonado",
+          "Ser fatalista",
+          "Não ter esperança"
+        ]
+      },
+      "Numerology": "5 (O Catalisador: instabilidade, resistência, confronto)",
+      "Astrology": "Mercúrio em Touro",
+      "Affirmation": "\"Eu confio que serei cuidado.\"",
+      "Questions to Ask": [
+        "O que preciso para me sentir seguro?",
+        "Quem pode me ajudar?",
+        "Como a adversidade me torna mais forte?"
+      ]
+    },
+    {
+      "name": "Seis de Ouros",
+      "number": "6",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p06.jpg",
+      "fortune_telling": [
+        "Você fará uma doação a uma instituição de caridade",
+        "Espere receber um presente de um estranho rico",
+        "Suas finanças melhoram"
+      ],
+      "keywords": [
+        "generosidade",
+        "caridade",
+        "presente",
+        "prosperidade",
+        "compartilhamento"
+      ],
+      "meanings": {
+        "light": [
+          "Ser generoso",
+          "Compartilhar sua riqueza",
+          "Ser grato por suas bênçãos",
+          "Fazer uma doação",
+          "Ser um bom administrador",
+          "Receber um presente",
+          "Encontrar alegria em dar"
+        ],
+        "shadow": [
+          "Ser ganancioso",
+          "Ser um mau administrador",
+          "Sentir-se carente",
+          "Ser mesquinho",
+          "Não ser grato",
+          "Receber caridade e se ressentir",
+          "Ser um parasita"
+        ]
+      },
+      "Numerology": "6 (O Ajuste: cooperação, colaboração, interação)",
+      "Astrology": "Lua em Touro",
+      "Affirmation": "\"Eu sou um canal de generosidade.\"",
+      "Questions to Ask": [
+        "O que significa para mim ser generoso?",
+        "Como posso compartilhar minha riqueza?",
+        "O que me impede de dar?"
+      ]
+    },
+    {
+      "name": "Sete de Ouros",
+      "number": "7",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p07.jpg",
+      "fortune_telling": [
+        "Aproveite as férias! Você precisa!",
+        "O crescimento do seu projeto será lento; seja paciente"
+      ],
+      "keywords": [
+        "recompensa",
+        "investimento",
+        "paciência",
+        "progresso",
+        "frustração"
+      ],
+      "meanings": {
+        "light": [
+          "Ser paciente",
+          "Esperar por uma recompensa",
+          "Fazer um investimento",
+          "Ser frugal",
+          "Ser um bom administrador",
+          "Apreciar o crescimento lento e constante",
+          "Estar atento"
+        ],
+        "shadow": [
+          "Ser impaciente",
+          "Desistir prematuramente",
+          "Ser um jogador",
+          "Ser irresponsável",
+          "Não ter visão de longo prazo",
+          "Ser preguiçoso",
+          "Sentir-se frustrado"
+        ]
+      },
+      "Numerology": "7 (O Motivo: imaginação, trabalho interior, psicologia)",
+      "Astrology": "Saturno em Touro",
+      "Affirmation": "\"Eu aprecio o processo de crescimento.\"",
+      "Questions to Ask": [
+        "O que preciso para ser mais paciente?",
+        "Qual é a melhor maneira de investir meu tempo?",
+        "O que estou esperando que aconteça?"
+      ]
+    },
+    {
+      "name": "Oito de Ouros",
+      "number": "8",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p08.jpg",
+      "fortune_telling": [
+        "Você terá a chance de frequentar um curso ou treinamento",
+        "Você logo se dedicará a um hobby ou paixão"
+      ],
+      "keywords": [
+        "artesanato",
+        "habilidade",
+        "talento",
+        "trabalho",
+        "dedicação"
+      ],
+      "meanings": {
+        "light": [
+          "Aprender uma nova habilidade",
+          "Ser diligente",
+          "Ser um artesão",
+          "Ser um bom estudante",
+          "Apreciar o trabalho duro",
+          "Fazer um bom trabalho",
+          "Ser recompensado por seu trabalho"
+        ],
+        "shadow": [
+          "Fazer um trabalho ruim",
+          "Ser preguiçoso",
+          "Ser um procrastinador",
+          "Não ter talento",
+          "Ser excessivamente crítico",
+          "Não ter orgulho do seu trabalho",
+          "Ser um mau aluno"
+        ]
+      },
+      "Numerology": "8 (A Ação: movimento, trabalho externo, rapidez)",
+      "Astrology": "Sol em Virgem",
+      "Affirmation": "\"Eu me dedico a ser o melhor que posso ser.\"",
+      "Questions to Ask": [
+        "O que eu mais gosto de fazer?",
+        "Como posso melhorar minhas habilidades?",
+        "O que significa para mim ser um artesão?"
+      ]
+    },
+    {
+      "name": "Nove de Ouros",
+      "number": "9",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p09.jpg",
+      "fortune_telling": [
+        "O sucesso estará em seu futuro",
+        "Um empreendimento financeiro que você empreendeu dará frutos"
+      ],
+      "keywords": [
+        "luxo",
+        "autossuficiência",
+        "sucesso",
+        "prazer",
+        "confiança"
+      ],
+      "meanings": {
+        "light": [
+          "Ter confiança",
+          "Ser independente",
+          "Ter sucesso",
+          "Desfrutar do luxo",
+          "Ser um bom administrador",
+          "Ter orgulho do seu trabalho",
+          "Ser um bom investidor"
+        ],
+        "shadow": [
+          "Ser vaidoso",
+          "Ser preguiçoso",
+          "Ser um mau administrador",
+          "Não ter confiança",
+          "Ser um mau investidor",
+          "Depender dos outros",
+          "Sentir-se vazio"
+        ]
+      },
+      "Numerology": "9 (A Conclusão: plenitude, prontidão, maturidade)",
+      "Astrology": "Vênus em Virgem",
+      "Affirmation": "\"Eu sou grato pelo meu sucesso.\"",
+      "Questions to Ask": [
+        "O que significa para mim ser autossuficiente?",
+        "O que é luxo para mim?",
+        "Como a confiança afeta minha vida?"
+      ]
+    },
+    {
+      "name": "Dez de Ouros",
+      "number": "10",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p10.jpg",
+      "fortune_telling": [
+        "Um evento familiar está chegando",
+        "Você terá a oportunidade de conhecer uma pessoa rica"
+      ],
+      "keywords": [
+        "riqueza",
+        "segurança",
+        "família",
+        "herança",
+        "prosperidade"
+      ],
+      "meanings": {
+        "light": [
+          "Sentir-se seguro",
+          "Ter riqueza",
+          "Ser um bom administrador",
+          "Ser um bom investidor",
+          "Ter uma família unida",
+          "Receber uma herança",
+          "Ser grato por suas bênçãos"
+        ],
+        "shadow": [
+          "Perder dinheiro",
+          "Não ter segurança financeira",
+          "Ter medo de perder dinheiro",
+          "Ser ganancioso",
+          "Ter uma família disfuncional",
+          "Ser um mau administrador",
+          "Não ser grato"
+        ]
+      },
+      "Numerology": "10 (O Fim: finalidade, conclusão, exaustão)",
+      "Astrology": "Mercúrio em Virgem",
+      "Affirmation": "\"Eu valorizo e aprecio minha família.\"",
+      "Questions to Ask": [
+        "O que significa para mim ser rico?",
+        "Qual é a minha herança?",
+        "Como a família afeta minhas finanças?"
+      ]
+    },
+    {
+      "name": "Pajem de Ouros",
+      "number": "11",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p11.jpg",
+      "fortune_telling": [
+        "Uma nova fonte de renda pode estar no horizonte",
+        "O crescimento do seu projeto será lento; seja paciente"
+      ],
+      "keywords": [
+        "oportunidade",
+        "novidade",
+        "impulso",
+        "estudo",
+        "foco"
+      ],
+      "meanings": {
+        "light": [
+          "Ser um bom estudante",
+          "Aprender uma nova habilidade",
+          "Ter foco",
+          "Ser diligente",
+          "Apreciar o trabalho duro",
+          "Fazer um bom trabalho",
+          "Ser recompensado por seu trabalho"
+        ],
+        "shadow": [
+          "Fazer um trabalho ruim",
+          "Ser preguiçoso",
+          "Ser um procrastinador",
+          "Não ter talento",
+          "Ser excessivamente crítico",
+          "Não ter orgulho do seu trabalho",
+          "Ser um mau aluno"
+        ]
+      },
+      "Numerology": "11 = 1 + 1 = 2 (A Dupla: divisão, debate, dualidade)",
+      "Astrology": "Capricórnio, Touro, Virgem",
+      "Affirmation": "\"Eu sou diligente e focado.\"",
+      "Questions to Ask": [
+        "Qual é o primeiro passo para o meu novo projeto?",
+        "Como a diligência me ajudará a ter sucesso?",
+        "O que estou disposto a aprender?"
+      ]
+    },
+    {
+      "name": "Cavaleiro de Ouros",
+      "number": "12",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p12.jpg",
+      "fortune_telling": [
+        "Você pode ter que fazer uma jornada de trabalho que pode ser tediosa, mas lucrativa",
+        "Um jovem mais velho pode em breve oferecer uma oportunidade de trabalho"
+      ],
+      "keywords": [
+        "paciência",
+        "confiabilidade",
+        "trabalho",
+        "método"
+      ],
+      "meanings": {
+        "light": [
+          "Ser paciente",
+          "Ser confiável",
+          "Ter foco",
+          "Ser diligente",
+          "Apreciar o trabalho duro",
+          "Fazer um bom trabalho",
+          "Ser recompensado por seu trabalho"
+        ],
+        "shadow": [
+          "Ser preguiçoso",
+          "Ser um procrastinador",
+          "Não ser confiável",
+          "Ser teimoso",
+          "Ser inflexível",
+          "Não ter foco",
+          "Ser excessivamente conservador"
+        ]
+      },
+      "Numerology": "12 = 1 + 2 = 3 (A Expressão: expressão, produtividade, resultado)",
+      "Astrology": "Capricórnio, Touro, Virgem",
+      "Affirmation": "\"Eu sou paciente e persistente.\"",
+      "Questions to Ask": [
+        "Como a paciência me ajudará a ter sucesso?",
+        "O que significa para mim ser confiável?",
+        "Qual é o método mais inteligente para atingir meu objetivo?"
+      ]
+    },
+    {
+      "name": "Rainha de Ouros",
+      "number": "13",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p13.jpg",
+      "fortune_telling": [
+        "Uma mulher mais velha e confiante oferece conselhos valiosos",
+        "Sua mãe ou esposa pode dar um presente"
+      ],
+      "keywords": [
+        "nutrição",
+        "conforto",
+        "generosidade",
+        "saúde",
+        "riqueza"
+      ],
+      "meanings": {
+        "light": [
+          "Ser nutridor",
+          "Ser generoso",
+          "Ter riqueza",
+          "Estar bem",
+          "Ser um bom administrador",
+          "Apreciar a beleza",
+          "Sentir-se seguro"
+        ],
+        "shadow": [
+          "Ser ganancioso",
+          "Ser um mau administrador",
+          "Não ser grato",
+          "Ser um parasita",
+          "Não ter saúde",
+          "Ser inseguro",
+          "Ser excessivamente indulgente"
+        ]
+      },
+      "Numerology": "13 = 1 + 3 = 4 (A Estabilidade: estabilidade, igualdade, persistência)",
+      "Astrology": "Capricórnio, Touro, Virgem",
+      "Affirmation": "\"Eu sou um canal de nutrição e apoio.\"",
+      "Questions to Ask": [
+        "O que significa para mim ser nutridor?",
+        "Como a generosidade afeta minha vida?",
+        "Qual é o papel da beleza em minha vida?"
+      ]
+    },
+    {
+      "name": "Rei de Ouros",
+      "number": "14",
+      "arcana": "Arcano Menor",
+      "suit": "Pentacles",
+      "img": "p14.jpg",
+      "fortune_telling": [
+        "Um homem mais velho pode em breve dar um conselho sábio",
+        "Um novo negócio ou empreendimento terá sucesso"
+      ],
+      "keywords": [
+        "sucesso",
+        "segurança",
+        "confiabilidade",
+        "confiança",
+        "intervenção"
+      ],
+      "meanings": {
+        "light": [
+          "Livrar-se de dívidas",
+          "Ter mais do que suficiente para se sustentar",
+          "Fazer contribuições para um plano de poupança",
+          "Aceitar um novo emprego com o objetivo de avançar na carreira",
+          "Comprar seguro de vida ou saúde",
+          "Ser confiante no quarto",
+          "Assumir o papel de executor quando chamado a fazê-lo"
+        ],
+        "shadow": [
+          "Tornar-se tão conservador que resiste a todas as mudanças por princípio apenas",
+          "Ignorar inovações em nome da preservação da tradição",
+          "Ser presunçoso ou arrogante",
+          "Tornar-se implacavelmente dedicado ao lucro ou prazer",
+          "Ser sexualmente egoísta",
+          "Dar ordens aos outros, especialmente quando você não tem poder para fazê-lo"
+        ]
+      },
+      "Elemental": "Fogo da Terra.",
+      "Affirmation": "\"Eu incorporo confiança e justiça.\"",
+      "Questions to Ask": [
+        "Como você pode lidar com as despesas com maior confiança e maturidade?",
+        "Quão confiável você é? Quão confiável os outros diriam que você é?",
+        "Em que medida um ponto de vista conservador é valioso? Em que ponto se torna mais um fardo do que uma bênção?"
+      ]
+    }
+  ]
+}
