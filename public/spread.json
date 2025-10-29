@@ -1,0 +1,86 @@
+{
+    "spread_types": [
+      {
+        "name": "Tiragem de 1 Carta",
+        "cards": 1,
+        "objective": "Resposta rápida, conselho diário, foco principal para uma situação específica.",
+        "positions": [
+          {
+            "number": 1,
+            "meaning": "Conselho, Foco do Dia, Resposta Direta (Sim/Não) ou Síntese da Situação."
+          }
+        ]
+      },
+      {
+        "name": "Tiragem de 3 Cartas",
+        "cards": 3,
+        "objective": "Análise temporal ou causal de uma questão. Muito versátil para problemas e escolhas.",
+        "positions": [
+          {
+            "number": 1,
+            "meaning": "Passado (A Origem, o que influenciou, as raízes do problema)."
+          },
+          {
+            "number": 2,
+            "meaning": "Presente (A Situação Atual, o desafio ou energia predominante)."
+          },
+          {
+            "number": 3,
+            "meaning": "Futuro (O Resultado Provável, a conclusão se a situação atual persistir)."
+          }
+        ],
+        "common_variations": [
+          "Mente - Corpo - Espírito",
+          "Opção A - Opção B - Conselho",
+          "Problema - Causa - Solução"
+        ]
+      },
+      {
+        "name": "Tiragem Cruz Celta",
+        "cards": 10,
+        "objective": "Análise profunda e detalhada de uma situação ou tema, abrangendo influências internas, externas e o potencial de desenvolvimento.",
+        "positions": [
+          {
+            "number": 1,
+            "meaning": "O Significador (O Presente, o cerne da questão)."
+          },
+          {
+            "number": 2,
+            "meaning": "O Cruzamento (O Obstáculo/Desafio ou o que ajuda/opõe à Carta 1)."
+          },
+          {
+            "number": 3,
+            "meaning": "A Base (As Fundações, o passado distante, o inconsciente)."
+          },
+          {
+            "number": 4,
+            "meaning": "O Passado Recente (Eventos que acabaram de acontecer e estão se afastando)."
+          },
+          {
+            "number": 5,
+            "meaning": "O Potencial (O que pode acontecer, o melhor resultado se tudo correr bem)."
+          },
+          {
+            "number": 6,
+            "meaning": "O Futuro Próximo (O que está por vir, em cerca de 1 a 3 meses)."
+          },
+          {
+            "number": 7,
+            "meaning": "A Atitude (Como o consulente se sente e se posiciona na situação)."
+          },
+          {
+            "number": 8,
+            "meaning": "As Influências Externas (Como as outras pessoas e o ambiente afetam a questão)."
+          },
+          {
+            "number": 9,
+            "meaning": "Esperanças e Medos (Os desejos, mas também as ansiedades do consulente)."
+          },
+          {
+            "number": 10,
+            "meaning": "O Resultado Final (O desfecho provável da situação)."
+          }
+        ]
+      }
+    ]
+  }
