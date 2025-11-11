@@ -1,4 +1,9 @@
-const links = [{ label: "Home", href: "/" }];
+const links = [
+  { label: "Home", href: "/" },
+  { label: "Galeria", href: "/routes/gallery" },
+  { label: "Carta aleatória", href: "/getRandomCard" },
+  { label: "Sobre", href: "/about" },
+];
 
 export function DesktopNav() {
   return (
@@ -15,6 +20,7 @@ export function DesktopNav() {
     </nav>
   );
 }
+
 export function MobileNav() {
   return (
     <>

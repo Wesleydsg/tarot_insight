@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Image from "next/image";
-import { drawRandomCard, TarotCard } from "../cards"; // ajuste o caminho se necessário
+import { drawRandomCard, TarotCard } from "../cardsUtils"; // ajuste o caminho se necessário
 
 export default function HomePage() {
   const [card, setCard] = useState<TarotCard | null>(null);
