@@ -59,3 +59,13 @@ export async function drawRandomCard(): Promise<TarotCard | null> {
     return null;
   }
 }
+
+export async function summarizeCard(card: TarotCard) {
+  return {
+    name: card.name,
+    arcana: card.arcana,
+    keywords: card.keywords,
+    light: card.meanings.light[0],
+    shadow: card.meanings.shadow[0],
+  };
+}
